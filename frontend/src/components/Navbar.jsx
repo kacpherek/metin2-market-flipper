@@ -64,7 +64,7 @@ export default function Navbar() {
         <div className="mt-auto border-t border-zinc-800/80 p-4">
           <div className="flex items-center gap-2 text-xs text-zinc-500">
             <span className={`h-2 w-2 rounded-full ${online ? 'bg-emerald-400' : 'bg-red-400'}`} />
-            {online ? 'Lokalna baza aktywna' : 'Backend niedostępny'}
+            {online ? 'API rynku aktywne' : 'API niedostępne'}
           </div>
           <p className="mt-2 text-[11px] leading-5 text-zinc-600">Wyniki uwzględniają 8% podatku. Pewność dotyczy jakości wyceny, nie gwarancji sprzedaży.</p>
         </div>

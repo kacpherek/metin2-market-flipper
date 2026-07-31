@@ -1,5 +1,5 @@
 import { lazy, Suspense, useEffect } from 'react'
-import { BrowserRouter, Navigate, Route, Routes, useParams } from 'react-router-dom'
+import { HashRouter, Navigate, Route, Routes, useParams } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import FlipperDashboard from './components/FlipperDashboard'
 
@@ -34,7 +34,7 @@ export default function App() {
   }, [])
 
   return (
-    <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, '')}>
+    <HashRouter>
       <div className="min-h-[100dvh] bg-[#09090b] text-zinc-100 lg:grid lg:grid-cols-[248px_minmax(0,1fr)]">
         <Navbar />
         <main className="min-w-0 px-4 pb-12 pt-20 sm:px-6 lg:px-8 lg:pt-8">
@@ -54,6 +54,6 @@ export default function App() {
           </div>
         </main>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
