@@ -1,0 +1,8 @@
+name = "metin2-market-api"
+main = "src/index.js"
+compatibility_date = "2026-07-31"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "m2_shop_db"
+database_id = "1dd0cfb8-38ad-4bbf-b715-a6113733382f"

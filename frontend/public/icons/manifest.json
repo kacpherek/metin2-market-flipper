@@ -1,0 +1,7433 @@
+{
+  "source": "https://m2icondb.com",
+  "terms": "https://m2icondb.com/Terms",
+  "generated_at": "2026-07-13T13:19:10.10732+02:00",
+  "market_vnums": 1858,
+  "resolved_vnums": 1852,
+  "aliases": 1852,
+  "unique_source_icons": 564,
+  "downloads": {
+    "downloaded": 0,
+    "cached": 564,
+    "failed": 0
+  },
+  "unresolved_vnums": [
+    50077,
+    73760,
+    77001,
+    77002,
+    77011,
+    77027
+  ],
+  "failures": {},
+  "mappings": {
+    "12": {
+      "icon": "00010",
+      "reason": "refine-family"
+    },
+    "13": {
+      "icon": "00010",
+      "reason": "refine-family"
+    },
+    "17": {
+      "icon": "00010",
+      "reason": "refine-family"
+    },
+    "20": {
+      "icon": "00020",
+      "reason": "exact-vnum"
+    },
+    "21": {
+      "icon": "00020",
+      "reason": "refine-family"
+    },
+    "24": {
+      "icon": "00020",
+      "reason": "refine-family"
+    },
+    "25": {
+      "icon": "00020",
+      "reason": "refine-family"
+    },
+    "26": {
+      "icon": "00020",
+      "reason": "refine-family"
+    },
+    "27": {
+      "icon": "00020",
+      "reason": "refine-family"
+    },
+    "28": {
+      "icon": "00020",
+      "reason": "refine-family"
+    },
+    "29": {
+      "icon": "00020",
+      "reason": "refine-family"
+    },
+    "30": {
+      "icon": "00030",
+      "reason": "exact-vnum"
+    },
+    "31": {
+      "icon": "00030",
+      "reason": "refine-family"
+    },
+    "32": {
+      "icon": "00030",
+      "reason": "refine-family"
+    },
+    "35": {
+      "icon": "00030",
+      "reason": "refine-family"
+    },
+    "37": {
+      "icon": "00030",
+      "reason": "refine-family"
+    },
+    "39": {
+      "icon": "00030",
+      "reason": "refine-family"
+    },
+    "40": {
+      "icon": "00040",
+      "reason": "exact-vnum"
+    },
+    "41": {
+      "icon": "00040",
+      "reason": "refine-family"
+    },
+    "43": {
+      "icon": "00040",
+      "reason": "refine-family"
+    },
+    "45": {
+      "icon": "00040",
+      "reason": "refine-family"
+    },
+    "46": {
+      "icon": "00040",
+      "reason": "refine-family"
+    },
+    "47": {
+      "icon": "00040",
+      "reason": "refine-family"
+    },
+    "48": {
+      "icon": "00040",
+      "reason": "refine-family"
+    },
+    "49": {
+      "icon": "00040",
+      "reason": "refine-family"
+    },
+    "50": {
+      "icon": "00050",
+      "reason": "exact-vnum"
+    },
+    "51": {
+      "icon": "00050",
+      "reason": "refine-family"
+    },
+    "52": {
+      "icon": "00050",
+      "reason": "refine-family"
+    },
+    "53": {
+      "icon": "00050",
+      "reason": "refine-family"
+    },
+    "54": {
+      "icon": "00050",
+      "reason": "refine-family"
+    },
+    "55": {
+      "icon": "00050",
+      "reason": "refine-family"
+    },
+    "56": {
+      "icon": "00050",
+      "reason": "refine-family"
+    },
+    "57": {
+      "icon": "00050",
+      "reason": "refine-family"
+    },
+    "58": {
+      "icon": "00050",
+      "reason": "refine-family"
+    },
+    "59": {
+      "icon": "00050",
+      "reason": "refine-family"
+    },
+    "60": {
+      "icon": "00060",
+      "reason": "exact-vnum"
+    },
+    "61": {
+      "icon": "00060",
+      "reason": "refine-family"
+    },
+    "62": {
+      "icon": "00060",
+      "reason": "refine-family"
+    },
+    "63": {
+      "icon": "00060",
+      "reason": "refine-family"
+    },
+    "64": {
+      "icon": "00060",
+      "reason": "refine-family"
+    },
+    "65": {
+      "icon": "00060",
+      "reason": "refine-family"
+    },
+    "66": {
+      "icon": "00060",
+      "reason": "refine-family"
+    },
+    "67": {
+      "icon": "00060",
+      "reason": "refine-family"
+    },
+    "68": {
+      "icon": "00060",
+      "reason": "refine-family"
+    },
+    "69": {
+      "icon": "00060",
+      "reason": "refine-family"
+    },
+    "70": {
+      "icon": "00070",
+      "reason": "exact-vnum"
+    },
+    "71": {
+      "icon": "00070",
+      "reason": "refine-family"
+    },
+    "72": {
+      "icon": "00070",
+      "reason": "refine-family"
+    },
+    "74": {
+      "icon": "00070",
+      "reason": "refine-family"
+    },
+    "75": {
+      "icon": "00070",
+      "reason": "refine-family"
+    },
+    "76": {
+      "icon": "00070",
+      "reason": "refine-family"
+    },
+    "77": {
+      "icon": "00070",
+      "reason": "refine-family"
+    },
+    "78": {
+      "icon": "00070",
+      "reason": "refine-family"
+    },
+    "80": {
+      "icon": "00080",
+      "reason": "exact-vnum"
+    },
+    "81": {
+      "icon": "00080",
+      "reason": "refine-family"
+    },
+    "82": {
+      "icon": "00080",
+      "reason": "refine-family"
+    },
+    "83": {
+      "icon": "00080",
+      "reason": "refine-family"
+    },
+    "85": {
+      "icon": "00080",
+      "reason": "refine-family"
+    },
+    "86": {
+      "icon": "00080",
+      "reason": "refine-family"
+    },
+    "89": {
+      "icon": "00080",
+      "reason": "refine-family"
+    },
+    "90": {
+      "icon": "00090",
+      "reason": "exact-vnum"
+    },
+    "91": {
+      "icon": "00090",
+      "reason": "refine-family"
+    },
+    "92": {
+      "icon": "00090",
+      "reason": "refine-family"
+    },
+    "94": {
+      "icon": "00090",
+      "reason": "refine-family"
+    },
+    "95": {
+      "icon": "00090",
+      "reason": "refine-family"
+    },
+    "96": {
+      "icon": "00090",
+      "reason": "refine-family"
+    },
+    "100": {
+      "icon": "00100",
+      "reason": "exact-vnum"
+    },
+    "101": {
+      "icon": "00100",
+      "reason": "refine-family"
+    },
+    "102": {
+      "icon": "00100",
+      "reason": "refine-family"
+    },
+    "104": {
+      "icon": "00100",
+      "reason": "refine-family"
+    },
+    "105": {
+      "icon": "00100",
+      "reason": "refine-family"
+    },
+    "107": {
+      "icon": "00100",
+      "reason": "refine-family"
+    },
+    "109": {
+      "icon": "00100",
+      "reason": "refine-family"
+    },
+    "110": {
+      "icon": "00110",
+      "reason": "exact-vnum"
+    },
+    "111": {
+      "icon": "00110",
+      "reason": "refine-family"
+    },
+    "112": {
+      "icon": "00110",
+      "reason": "refine-family"
+    },
+    "113": {
+      "icon": "00110",
+      "reason": "refine-family"
+    },
+    "114": {
+      "icon": "00110",
+      "reason": "refine-family"
+    },
+    "115": {
+      "icon": "00110",
+      "reason": "refine-family"
+    },
+    "118": {
+      "icon": "00110",
+      "reason": "refine-family"
+    },
+    "119": {
+      "icon": "00110",
+      "reason": "refine-family"
+    },
+    "120": {
+      "icon": "00120",
+      "reason": "exact-vnum"
+    },
+    "121": {
+      "icon": "00120",
+      "reason": "refine-family"
+    },
+    "122": {
+      "icon": "00120",
+      "reason": "refine-family"
+    },
+    "124": {
+      "icon": "00120",
+      "reason": "refine-family"
+    },
+    "125": {
+      "icon": "00120",
+      "reason": "refine-family"
+    },
+    "129": {
+      "icon": "00120",
+      "reason": "refine-family"
+    },
+    "130": {
+      "icon": "00130",
+      "reason": "exact-vnum"
+    },
+    "132": {
+      "icon": "00130",
+      "reason": "refine-family"
+    },
+    "133": {
+      "icon": "00130",
+      "reason": "refine-family"
+    },
+    "134": {
+      "icon": "00130",
+      "reason": "refine-family"
+    },
+    "135": {
+      "icon": "00130",
+      "reason": "refine-family"
+    },
+    "137": {
+      "icon": "00130",
+      "reason": "refine-family"
+    },
+    "140": {
+      "icon": "00140",
+      "reason": "exact-vnum"
+    },
+    "141": {
+      "icon": "00140",
+      "reason": "refine-family"
+    },
+    "142": {
+      "icon": "00140",
+      "reason": "refine-family"
+    },
+    "143": {
+      "icon": "00140",
+      "reason": "refine-family"
+    },
+    "144": {
+      "icon": "00140",
+      "reason": "refine-family"
+    },
+    "145": {
+      "icon": "00140",
+      "reason": "refine-family"
+    },
+    "146": {
+      "icon": "00140",
+      "reason": "refine-family"
+    },
+    "147": {
+      "icon": "00140",
+      "reason": "refine-family"
+    },
+    "148": {
+      "icon": "00140",
+      "reason": "refine-family"
+    },
+    "150": {
+      "icon": "00150",
+      "reason": "exact-vnum"
+    },
+    "151": {
+      "icon": "00150",
+      "reason": "refine-family"
+    },
+    "152": {
+      "icon": "00150",
+      "reason": "refine-family"
+    },
+    "153": {
+      "icon": "00150",
+      "reason": "refine-family"
+    },
+    "154": {
+      "icon": "00150",
+      "reason": "refine-family"
+    },
+    "155": {
+      "icon": "00150",
+      "reason": "refine-family"
+    },
+    "156": {
+      "icon": "00150",
+      "reason": "refine-family"
+    },
+    "157": {
+      "icon": "00150",
+      "reason": "refine-family"
+    },
+    "158": {
+      "icon": "00150",
+      "reason": "refine-family"
+    },
+    "160": {
+      "icon": "00160",
+      "reason": "exact-vnum"
+    },
+    "161": {
+      "icon": "00160",
+      "reason": "refine-family"
+    },
+    "162": {
+      "icon": "00160",
+      "reason": "refine-family"
+    },
+    "163": {
+      "icon": "00160",
+      "reason": "refine-family"
+    },
+    "164": {
+      "icon": "00160",
+      "reason": "refine-family"
+    },
+    "165": {
+      "icon": "00160",
+      "reason": "refine-family"
+    },
+    "166": {
+      "icon": "00160",
+      "reason": "refine-family"
+    },
+    "167": {
+      "icon": "00160",
+      "reason": "refine-family"
+    },
+    "168": {
+      "icon": "00160",
+      "reason": "refine-family"
+    },
+    "169": {
+      "icon": "00160",
+      "reason": "refine-family"
+    },
+    "170": {
+      "icon": "00170",
+      "reason": "exact-vnum"
+    },
+    "176": {
+      "icon": "00170",
+      "reason": "refine-family"
+    },
+    "186": {
+      "icon": "00180",
+      "reason": "refine-family"
+    },
+    "196": {
+      "icon": "00190",
+      "reason": "refine-family"
+    },
+    "198": {
+      "icon": "00190",
+      "reason": "refine-family"
+    },
+    "240": {
+      "icon": "00240",
+      "reason": "exact-vnum"
+    },
+    "241": {
+      "icon": "00240",
+      "reason": "refine-family"
+    },
+    "242": {
+      "icon": "00240",
+      "reason": "refine-family"
+    },
+    "243": {
+      "icon": "00240",
+      "reason": "refine-family"
+    },
+    "244": {
+      "icon": "00240",
+      "reason": "refine-family"
+    },
+    "250": {
+      "icon": "00250",
+      "reason": "exact-vnum"
+    },
+    "290": {
+      "icon": "00290",
+      "reason": "exact-vnum"
+    },
+    "292": {
+      "icon": "00290",
+      "reason": "refine-family"
+    },
+    "293": {
+      "icon": "00290",
+      "reason": "refine-family"
+    },
+    "294": {
+      "icon": "00290",
+      "reason": "refine-family"
+    },
+    "295": {
+      "icon": "00290",
+      "reason": "refine-family"
+    },
+    "296": {
+      "icon": "00290",
+      "reason": "refine-family"
+    },
+    "297": {
+      "icon": "00290",
+      "reason": "refine-family"
+    },
+    "298": {
+      "icon": "00290",
+      "reason": "refine-family"
+    },
+    "299": {
+      "icon": "00290",
+      "reason": "refine-family"
+    },
+    "1001": {
+      "icon": "01000",
+      "reason": "refine-family"
+    },
+    "1002": {
+      "icon": "01000",
+      "reason": "refine-family"
+    },
+    "1003": {
+      "icon": "01000",
+      "reason": "refine-family"
+    },
+    "1009": {
+      "icon": "01000",
+      "reason": "refine-family"
+    },
+    "1010": {
+      "icon": "01010",
+      "reason": "exact-vnum"
+    },
+    "1011": {
+      "icon": "01010",
+      "reason": "refine-family"
+    },
+    "1021": {
+      "icon": "01020",
+      "reason": "refine-family"
+    },
+    "1028": {
+      "icon": "01020",
+      "reason": "refine-family"
+    },
+    "1029": {
+      "icon": "01020",
+      "reason": "refine-family"
+    },
+    "1030": {
+      "icon": "01030",
+      "reason": "exact-vnum"
+    },
+    "1031": {
+      "icon": "01030",
+      "reason": "refine-family"
+    },
+    "1032": {
+      "icon": "01030",
+      "reason": "refine-family"
+    },
+    "1034": {
+      "icon": "01030",
+      "reason": "refine-family"
+    },
+    "1040": {
+      "icon": "01040",
+      "reason": "exact-vnum"
+    },
+    "1041": {
+      "icon": "01040",
+      "reason": "refine-family"
+    },
+    "1042": {
+      "icon": "01040",
+      "reason": "refine-family"
+    },
+    "1044": {
+      "icon": "01040",
+      "reason": "refine-family"
+    },
+    "1045": {
+      "icon": "01040",
+      "reason": "refine-family"
+    },
+    "1047": {
+      "icon": "01040",
+      "reason": "refine-family"
+    },
+    "1050": {
+      "icon": "01050",
+      "reason": "exact-vnum"
+    },
+    "1051": {
+      "icon": "01050",
+      "reason": "refine-family"
+    },
+    "1052": {
+      "icon": "01050",
+      "reason": "refine-family"
+    },
+    "1053": {
+      "icon": "01050",
+      "reason": "refine-family"
+    },
+    "1059": {
+      "icon": "01050",
+      "reason": "refine-family"
+    },
+    "1060": {
+      "icon": "01060",
+      "reason": "exact-vnum"
+    },
+    "1061": {
+      "icon": "01060",
+      "reason": "refine-family"
+    },
+    "1062": {
+      "icon": "01060",
+      "reason": "refine-family"
+    },
+    "1063": {
+      "icon": "01060",
+      "reason": "refine-family"
+    },
+    "1064": {
+      "icon": "01060",
+      "reason": "refine-family"
+    },
+    "1070": {
+      "icon": "01070",
+      "reason": "exact-vnum"
+    },
+    "1071": {
+      "icon": "01070",
+      "reason": "refine-family"
+    },
+    "1072": {
+      "icon": "01070",
+      "reason": "refine-family"
+    },
+    "1074": {
+      "icon": "01070",
+      "reason": "refine-family"
+    },
+    "1080": {
+      "icon": "01080",
+      "reason": "exact-vnum"
+    },
+    "1081": {
+      "icon": "01080",
+      "reason": "refine-family"
+    },
+    "1082": {
+      "icon": "01080",
+      "reason": "refine-family"
+    },
+    "1084": {
+      "icon": "01080",
+      "reason": "refine-family"
+    },
+    "1090": {
+      "icon": "01090",
+      "reason": "exact-vnum"
+    },
+    "1091": {
+      "icon": "01090",
+      "reason": "refine-family"
+    },
+    "1092": {
+      "icon": "01090",
+      "reason": "refine-family"
+    },
+    "1093": {
+      "icon": "01090",
+      "reason": "refine-family"
+    },
+    "1094": {
+      "icon": "01090",
+      "reason": "refine-family"
+    },
+    "1095": {
+      "icon": "01090",
+      "reason": "refine-family"
+    },
+    "1100": {
+      "icon": "01100",
+      "reason": "exact-vnum"
+    },
+    "1101": {
+      "icon": "01100",
+      "reason": "refine-family"
+    },
+    "1102": {
+      "icon": "01100",
+      "reason": "refine-family"
+    },
+    "1103": {
+      "icon": "01100",
+      "reason": "refine-family"
+    },
+    "1104": {
+      "icon": "01100",
+      "reason": "refine-family"
+    },
+    "1105": {
+      "icon": "01100",
+      "reason": "refine-family"
+    },
+    "1106": {
+      "icon": "01100",
+      "reason": "refine-family"
+    },
+    "1107": {
+      "icon": "01100",
+      "reason": "refine-family"
+    },
+    "1110": {
+      "icon": "01110",
+      "reason": "exact-vnum"
+    },
+    "1111": {
+      "icon": "01110",
+      "reason": "refine-family"
+    },
+    "1112": {
+      "icon": "01110",
+      "reason": "refine-family"
+    },
+    "1113": {
+      "icon": "01110",
+      "reason": "refine-family"
+    },
+    "1116": {
+      "icon": "01110",
+      "reason": "refine-family"
+    },
+    "1120": {
+      "icon": "01120",
+      "reason": "exact-vnum"
+    },
+    "1127": {
+      "icon": "01120",
+      "reason": "refine-family"
+    },
+    "1130": {
+      "icon": "01130",
+      "reason": "exact-vnum"
+    },
+    "1170": {
+      "icon": "01170",
+      "reason": "exact-vnum"
+    },
+    "1171": {
+      "icon": "01170",
+      "reason": "refine-family"
+    },
+    "1172": {
+      "icon": "01170",
+      "reason": "refine-family"
+    },
+    "1174": {
+      "icon": "01170",
+      "reason": "refine-family"
+    },
+    "1176": {
+      "icon": "01170",
+      "reason": "refine-family"
+    },
+    "1177": {
+      "icon": "01170",
+      "reason": "refine-family"
+    },
+    "1178": {
+      "icon": "01170",
+      "reason": "refine-family"
+    },
+    "1179": {
+      "icon": "01170",
+      "reason": "refine-family"
+    },
+    "2000": {
+      "icon": "02000",
+      "reason": "exact-vnum"
+    },
+    "2001": {
+      "icon": "02000",
+      "reason": "refine-family"
+    },
+    "2002": {
+      "icon": "02000",
+      "reason": "refine-family"
+    },
+    "2010": {
+      "icon": "02010",
+      "reason": "exact-vnum"
+    },
+    "2011": {
+      "icon": "02010",
+      "reason": "refine-family"
+    },
+    "2012": {
+      "icon": "02010",
+      "reason": "refine-family"
+    },
+    "2020": {
+      "icon": "02020",
+      "reason": "exact-vnum"
+    },
+    "2021": {
+      "icon": "02020",
+      "reason": "refine-family"
+    },
+    "2022": {
+      "icon": "02020",
+      "reason": "refine-family"
+    },
+    "2024": {
+      "icon": "02020",
+      "reason": "refine-family"
+    },
+    "2029": {
+      "icon": "02020",
+      "reason": "refine-family"
+    },
+    "2030": {
+      "icon": "02030",
+      "reason": "exact-vnum"
+    },
+    "2031": {
+      "icon": "02030",
+      "reason": "refine-family"
+    },
+    "2038": {
+      "icon": "02030",
+      "reason": "refine-family"
+    },
+    "2039": {
+      "icon": "02030",
+      "reason": "refine-family"
+    },
+    "2040": {
+      "icon": "02040",
+      "reason": "exact-vnum"
+    },
+    "2042": {
+      "icon": "02040",
+      "reason": "refine-family"
+    },
+    "2049": {
+      "icon": "02040",
+      "reason": "refine-family"
+    },
+    "2050": {
+      "icon": "02050",
+      "reason": "exact-vnum"
+    },
+    "2052": {
+      "icon": "02050",
+      "reason": "refine-family"
+    },
+    "2055": {
+      "icon": "02050",
+      "reason": "refine-family"
+    },
+    "2056": {
+      "icon": "02050",
+      "reason": "refine-family"
+    },
+    "2060": {
+      "icon": "02060",
+      "reason": "exact-vnum"
+    },
+    "2061": {
+      "icon": "02060",
+      "reason": "refine-family"
+    },
+    "2062": {
+      "icon": "02060",
+      "reason": "refine-family"
+    },
+    "2064": {
+      "icon": "02060",
+      "reason": "refine-family"
+    },
+    "2070": {
+      "icon": "02070",
+      "reason": "exact-vnum"
+    },
+    "2071": {
+      "icon": "02070",
+      "reason": "refine-family"
+    },
+    "2072": {
+      "icon": "02070",
+      "reason": "refine-family"
+    },
+    "2074": {
+      "icon": "02070",
+      "reason": "refine-family"
+    },
+    "2080": {
+      "icon": "02080",
+      "reason": "exact-vnum"
+    },
+    "2081": {
+      "icon": "02080",
+      "reason": "refine-family"
+    },
+    "2082": {
+      "icon": "02080",
+      "reason": "refine-family"
+    },
+    "2090": {
+      "icon": "02090",
+      "reason": "exact-vnum"
+    },
+    "2091": {
+      "icon": "02090",
+      "reason": "refine-family"
+    },
+    "2094": {
+      "icon": "02090",
+      "reason": "refine-family"
+    },
+    "2095": {
+      "icon": "02090",
+      "reason": "refine-family"
+    },
+    "2100": {
+      "icon": "02100",
+      "reason": "exact-vnum"
+    },
+    "2102": {
+      "icon": "02100",
+      "reason": "refine-family"
+    },
+    "2104": {
+      "icon": "02100",
+      "reason": "refine-family"
+    },
+    "2107": {
+      "icon": "02100",
+      "reason": "refine-family"
+    },
+    "2110": {
+      "icon": "02110",
+      "reason": "exact-vnum"
+    },
+    "2111": {
+      "icon": "02110",
+      "reason": "refine-family"
+    },
+    "2112": {
+      "icon": "02110",
+      "reason": "refine-family"
+    },
+    "2114": {
+      "icon": "02110",
+      "reason": "refine-family"
+    },
+    "2120": {
+      "icon": "02120",
+      "reason": "exact-vnum"
+    },
+    "2121": {
+      "icon": "02120",
+      "reason": "refine-family"
+    },
+    "2122": {
+      "icon": "02120",
+      "reason": "refine-family"
+    },
+    "2123": {
+      "icon": "02120",
+      "reason": "refine-family"
+    },
+    "2124": {
+      "icon": "02120",
+      "reason": "refine-family"
+    },
+    "2125": {
+      "icon": "02120",
+      "reason": "refine-family"
+    },
+    "2130": {
+      "icon": "02130",
+      "reason": "exact-vnum"
+    },
+    "2131": {
+      "icon": "02130",
+      "reason": "refine-family"
+    },
+    "2132": {
+      "icon": "02130",
+      "reason": "refine-family"
+    },
+    "2133": {
+      "icon": "02130",
+      "reason": "refine-family"
+    },
+    "2134": {
+      "icon": "02130",
+      "reason": "refine-family"
+    },
+    "2136": {
+      "icon": "02130",
+      "reason": "refine-family"
+    },
+    "2138": {
+      "icon": "02130",
+      "reason": "refine-family"
+    },
+    "2139": {
+      "icon": "02130",
+      "reason": "refine-family"
+    },
+    "2140": {
+      "icon": "02140",
+      "reason": "exact-vnum"
+    },
+    "2141": {
+      "icon": "02140",
+      "reason": "refine-family"
+    },
+    "2142": {
+      "icon": "02140",
+      "reason": "refine-family"
+    },
+    "2143": {
+      "icon": "02140",
+      "reason": "refine-family"
+    },
+    "2144": {
+      "icon": "02140",
+      "reason": "refine-family"
+    },
+    "2145": {
+      "icon": "02140",
+      "reason": "refine-family"
+    },
+    "2146": {
+      "icon": "02140",
+      "reason": "refine-family"
+    },
+    "2147": {
+      "icon": "02140",
+      "reason": "refine-family"
+    },
+    "2150": {
+      "icon": "02150",
+      "reason": "exact-vnum"
+    },
+    "2152": {
+      "icon": "02150",
+      "reason": "refine-family"
+    },
+    "2153": {
+      "icon": "02150",
+      "reason": "refine-family"
+    },
+    "2154": {
+      "icon": "02150",
+      "reason": "refine-family"
+    },
+    "2155": {
+      "icon": "02150",
+      "reason": "refine-family"
+    },
+    "2156": {
+      "icon": "02150",
+      "reason": "refine-family"
+    },
+    "2157": {
+      "icon": "02150",
+      "reason": "refine-family"
+    },
+    "2158": {
+      "icon": "02150",
+      "reason": "refine-family"
+    },
+    "2159": {
+      "icon": "02150",
+      "reason": "refine-family"
+    },
+    "2170": {
+      "icon": "02170",
+      "reason": "exact-vnum"
+    },
+    "2176": {
+      "icon": "02170",
+      "reason": "refine-family"
+    },
+    "2180": {
+      "icon": "02180",
+      "reason": "exact-vnum"
+    },
+    "3000": {
+      "icon": "03000",
+      "reason": "exact-vnum"
+    },
+    "3001": {
+      "icon": "03000",
+      "reason": "refine-family"
+    },
+    "3007": {
+      "icon": "03000",
+      "reason": "refine-family"
+    },
+    "3017": {
+      "icon": "03010",
+      "reason": "refine-family"
+    },
+    "3020": {
+      "icon": "03020",
+      "reason": "exact-vnum"
+    },
+    "3021": {
+      "icon": "03020",
+      "reason": "refine-family"
+    },
+    "3026": {
+      "icon": "03020",
+      "reason": "refine-family"
+    },
+    "3027": {
+      "icon": "03020",
+      "reason": "refine-family"
+    },
+    "3030": {
+      "icon": "03030",
+      "reason": "exact-vnum"
+    },
+    "3036": {
+      "icon": "03030",
+      "reason": "refine-family"
+    },
+    "3037": {
+      "icon": "03030",
+      "reason": "refine-family"
+    },
+    "3039": {
+      "icon": "03030",
+      "reason": "refine-family"
+    },
+    "3040": {
+      "icon": "03040",
+      "reason": "exact-vnum"
+    },
+    "3041": {
+      "icon": "03040",
+      "reason": "refine-family"
+    },
+    "3042": {
+      "icon": "03040",
+      "reason": "refine-family"
+    },
+    "3043": {
+      "icon": "03040",
+      "reason": "refine-family"
+    },
+    "3045": {
+      "icon": "03040",
+      "reason": "refine-family"
+    },
+    "3046": {
+      "icon": "03040",
+      "reason": "refine-family"
+    },
+    "3048": {
+      "icon": "03040",
+      "reason": "refine-family"
+    },
+    "3049": {
+      "icon": "03040",
+      "reason": "refine-family"
+    },
+    "3050": {
+      "icon": "03050",
+      "reason": "exact-vnum"
+    },
+    "3052": {
+      "icon": "03050",
+      "reason": "refine-family"
+    },
+    "3054": {
+      "icon": "03050",
+      "reason": "refine-family"
+    },
+    "3055": {
+      "icon": "03050",
+      "reason": "refine-family"
+    },
+    "3056": {
+      "icon": "03050",
+      "reason": "refine-family"
+    },
+    "3057": {
+      "icon": "03050",
+      "reason": "refine-family"
+    },
+    "3059": {
+      "icon": "03050",
+      "reason": "refine-family"
+    },
+    "3060": {
+      "icon": "03060",
+      "reason": "exact-vnum"
+    },
+    "3061": {
+      "icon": "03060",
+      "reason": "refine-family"
+    },
+    "3062": {
+      "icon": "03060",
+      "reason": "refine-family"
+    },
+    "3064": {
+      "icon": "03060",
+      "reason": "refine-family"
+    },
+    "3067": {
+      "icon": "03060",
+      "reason": "refine-family"
+    },
+    "3068": {
+      "icon": "03060",
+      "reason": "refine-family"
+    },
+    "3069": {
+      "icon": "03060",
+      "reason": "refine-family"
+    },
+    "3070": {
+      "icon": "03070",
+      "reason": "exact-vnum"
+    },
+    "3071": {
+      "icon": "03070",
+      "reason": "refine-family"
+    },
+    "3072": {
+      "icon": "03070",
+      "reason": "refine-family"
+    },
+    "3073": {
+      "icon": "03070",
+      "reason": "refine-family"
+    },
+    "3074": {
+      "icon": "03070",
+      "reason": "refine-family"
+    },
+    "3076": {
+      "icon": "03070",
+      "reason": "refine-family"
+    },
+    "3077": {
+      "icon": "03070",
+      "reason": "refine-family"
+    },
+    "3078": {
+      "icon": "03070",
+      "reason": "refine-family"
+    },
+    "3079": {
+      "icon": "03070",
+      "reason": "refine-family"
+    },
+    "3080": {
+      "icon": "03080",
+      "reason": "exact-vnum"
+    },
+    "3081": {
+      "icon": "03080",
+      "reason": "refine-family"
+    },
+    "3082": {
+      "icon": "03080",
+      "reason": "refine-family"
+    },
+    "3084": {
+      "icon": "03080",
+      "reason": "refine-family"
+    },
+    "3087": {
+      "icon": "03080",
+      "reason": "refine-family"
+    },
+    "3089": {
+      "icon": "03080",
+      "reason": "refine-family"
+    },
+    "3090": {
+      "icon": "03090",
+      "reason": "exact-vnum"
+    },
+    "3094": {
+      "icon": "03090",
+      "reason": "refine-family"
+    },
+    "3096": {
+      "icon": "03090",
+      "reason": "refine-family"
+    },
+    "3099": {
+      "icon": "03090",
+      "reason": "refine-family"
+    },
+    "3100": {
+      "icon": "03100",
+      "reason": "exact-vnum"
+    },
+    "3101": {
+      "icon": "03100",
+      "reason": "refine-family"
+    },
+    "3104": {
+      "icon": "03100",
+      "reason": "refine-family"
+    },
+    "3107": {
+      "icon": "03100",
+      "reason": "refine-family"
+    },
+    "3109": {
+      "icon": "03100",
+      "reason": "refine-family"
+    },
+    "3110": {
+      "icon": "03110",
+      "reason": "exact-vnum"
+    },
+    "3111": {
+      "icon": "03110",
+      "reason": "refine-family"
+    },
+    "3112": {
+      "icon": "03110",
+      "reason": "refine-family"
+    },
+    "3113": {
+      "icon": "03110",
+      "reason": "refine-family"
+    },
+    "3114": {
+      "icon": "03110",
+      "reason": "refine-family"
+    },
+    "3115": {
+      "icon": "03110",
+      "reason": "refine-family"
+    },
+    "3116": {
+      "icon": "03110",
+      "reason": "refine-family"
+    },
+    "3117": {
+      "icon": "03110",
+      "reason": "refine-family"
+    },
+    "3118": {
+      "icon": "03110",
+      "reason": "refine-family"
+    },
+    "3119": {
+      "icon": "03110",
+      "reason": "refine-family"
+    },
+    "3120": {
+      "icon": "03120",
+      "reason": "exact-vnum"
+    },
+    "3121": {
+      "icon": "03120",
+      "reason": "refine-family"
+    },
+    "3122": {
+      "icon": "03120",
+      "reason": "refine-family"
+    },
+    "3123": {
+      "icon": "03120",
+      "reason": "refine-family"
+    },
+    "3124": {
+      "icon": "03120",
+      "reason": "refine-family"
+    },
+    "3126": {
+      "icon": "03120",
+      "reason": "refine-family"
+    },
+    "3127": {
+      "icon": "03120",
+      "reason": "refine-family"
+    },
+    "3128": {
+      "icon": "03120",
+      "reason": "refine-family"
+    },
+    "3130": {
+      "icon": "03130",
+      "reason": "exact-vnum"
+    },
+    "3131": {
+      "icon": "03130",
+      "reason": "refine-family"
+    },
+    "3132": {
+      "icon": "03130",
+      "reason": "refine-family"
+    },
+    "3133": {
+      "icon": "03130",
+      "reason": "refine-family"
+    },
+    "3134": {
+      "icon": "03130",
+      "reason": "refine-family"
+    },
+    "3135": {
+      "icon": "03130",
+      "reason": "refine-family"
+    },
+    "3136": {
+      "icon": "03130",
+      "reason": "refine-family"
+    },
+    "3137": {
+      "icon": "03130",
+      "reason": "refine-family"
+    },
+    "3138": {
+      "icon": "03130",
+      "reason": "refine-family"
+    },
+    "3140": {
+      "icon": "03140",
+      "reason": "exact-vnum"
+    },
+    "3141": {
+      "icon": "03140",
+      "reason": "refine-family"
+    },
+    "3142": {
+      "icon": "03140",
+      "reason": "refine-family"
+    },
+    "3143": {
+      "icon": "03140",
+      "reason": "refine-family"
+    },
+    "3144": {
+      "icon": "03140",
+      "reason": "refine-family"
+    },
+    "3146": {
+      "icon": "03140",
+      "reason": "refine-family"
+    },
+    "3147": {
+      "icon": "03140",
+      "reason": "refine-family"
+    },
+    "3148": {
+      "icon": "03140",
+      "reason": "refine-family"
+    },
+    "3149": {
+      "icon": "03140",
+      "reason": "refine-family"
+    },
+    "3150": {
+      "icon": "03150",
+      "reason": "exact-vnum"
+    },
+    "3151": {
+      "icon": "03150",
+      "reason": "refine-family"
+    },
+    "3154": {
+      "icon": "03150",
+      "reason": "refine-family"
+    },
+    "3156": {
+      "icon": "03150",
+      "reason": "refine-family"
+    },
+    "3157": {
+      "icon": "03150",
+      "reason": "refine-family"
+    },
+    "3166": {
+      "icon": "03160",
+      "reason": "refine-family"
+    },
+    "3210": {
+      "icon": "03210",
+      "reason": "exact-vnum"
+    },
+    "3213": {
+      "icon": "03210",
+      "reason": "refine-family"
+    },
+    "3214": {
+      "icon": "03210",
+      "reason": "refine-family"
+    },
+    "3215": {
+      "icon": "03210",
+      "reason": "refine-family"
+    },
+    "3216": {
+      "icon": "03210",
+      "reason": "refine-family"
+    },
+    "3217": {
+      "icon": "03210",
+      "reason": "refine-family"
+    },
+    "3218": {
+      "icon": "03210",
+      "reason": "refine-family"
+    },
+    "3219": {
+      "icon": "03210",
+      "reason": "refine-family"
+    },
+    "4000": {
+      "icon": "04000",
+      "reason": "exact-vnum"
+    },
+    "4001": {
+      "icon": "04000",
+      "reason": "refine-family"
+    },
+    "4006": {
+      "icon": "04000",
+      "reason": "refine-family"
+    },
+    "4008": {
+      "icon": "04000",
+      "reason": "refine-family"
+    },
+    "4009": {
+      "icon": "04000",
+      "reason": "refine-family"
+    },
+    "4010": {
+      "icon": "04010",
+      "reason": "exact-vnum"
+    },
+    "4011": {
+      "icon": "04010",
+      "reason": "refine-family"
+    },
+    "4012": {
+      "icon": "04010",
+      "reason": "refine-family"
+    },
+    "4016": {
+      "icon": "04010",
+      "reason": "refine-family"
+    },
+    "4017": {
+      "icon": "04010",
+      "reason": "refine-family"
+    },
+    "4018": {
+      "icon": "04010",
+      "reason": "refine-family"
+    },
+    "4019": {
+      "icon": "04010",
+      "reason": "refine-family"
+    },
+    "4020": {
+      "icon": "04020",
+      "reason": "exact-vnum"
+    },
+    "4021": {
+      "icon": "04020",
+      "reason": "refine-family"
+    },
+    "4022": {
+      "icon": "04020",
+      "reason": "refine-family"
+    },
+    "4025": {
+      "icon": "04020",
+      "reason": "refine-family"
+    },
+    "4026": {
+      "icon": "04020",
+      "reason": "refine-family"
+    },
+    "4027": {
+      "icon": "04020",
+      "reason": "refine-family"
+    },
+    "4029": {
+      "icon": "04020",
+      "reason": "refine-family"
+    },
+    "5000": {
+      "icon": "05000",
+      "reason": "exact-vnum"
+    },
+    "5001": {
+      "icon": "05000",
+      "reason": "refine-family"
+    },
+    "5002": {
+      "icon": "05000",
+      "reason": "refine-family"
+    },
+    "5004": {
+      "icon": "05000",
+      "reason": "refine-family"
+    },
+    "5006": {
+      "icon": "05000",
+      "reason": "refine-family"
+    },
+    "5010": {
+      "icon": "05010",
+      "reason": "exact-vnum"
+    },
+    "5011": {
+      "icon": "05010",
+      "reason": "refine-family"
+    },
+    "5012": {
+      "icon": "05010",
+      "reason": "refine-family"
+    },
+    "5014": {
+      "icon": "05010",
+      "reason": "refine-family"
+    },
+    "5016": {
+      "icon": "05010",
+      "reason": "refine-family"
+    },
+    "5019": {
+      "icon": "05010",
+      "reason": "refine-family"
+    },
+    "5020": {
+      "icon": "05020",
+      "reason": "exact-vnum"
+    },
+    "5021": {
+      "icon": "05020",
+      "reason": "refine-family"
+    },
+    "5024": {
+      "icon": "05020",
+      "reason": "refine-family"
+    },
+    "5025": {
+      "icon": "05020",
+      "reason": "refine-family"
+    },
+    "5026": {
+      "icon": "05020",
+      "reason": "refine-family"
+    },
+    "5028": {
+      "icon": "05020",
+      "reason": "refine-family"
+    },
+    "5030": {
+      "icon": "05030",
+      "reason": "exact-vnum"
+    },
+    "5031": {
+      "icon": "05030",
+      "reason": "refine-family"
+    },
+    "5032": {
+      "icon": "05030",
+      "reason": "refine-family"
+    },
+    "5033": {
+      "icon": "05030",
+      "reason": "refine-family"
+    },
+    "5040": {
+      "icon": "05040",
+      "reason": "exact-vnum"
+    },
+    "5041": {
+      "icon": "05040",
+      "reason": "refine-family"
+    },
+    "5042": {
+      "icon": "05040",
+      "reason": "refine-family"
+    },
+    "5044": {
+      "icon": "05040",
+      "reason": "refine-family"
+    },
+    "5048": {
+      "icon": "05040",
+      "reason": "refine-family"
+    },
+    "5050": {
+      "icon": "05050",
+      "reason": "exact-vnum"
+    },
+    "5051": {
+      "icon": "05050",
+      "reason": "refine-family"
+    },
+    "5052": {
+      "icon": "05050",
+      "reason": "refine-family"
+    },
+    "5053": {
+      "icon": "05050",
+      "reason": "refine-family"
+    },
+    "5054": {
+      "icon": "05050",
+      "reason": "refine-family"
+    },
+    "5060": {
+      "icon": "05060",
+      "reason": "exact-vnum"
+    },
+    "5061": {
+      "icon": "05060",
+      "reason": "refine-family"
+    },
+    "5062": {
+      "icon": "05060",
+      "reason": "refine-family"
+    },
+    "5064": {
+      "icon": "05060",
+      "reason": "refine-family"
+    },
+    "5068": {
+      "icon": "05060",
+      "reason": "refine-family"
+    },
+    "5070": {
+      "icon": "05070",
+      "reason": "exact-vnum"
+    },
+    "5071": {
+      "icon": "05070",
+      "reason": "refine-family"
+    },
+    "5072": {
+      "icon": "05070",
+      "reason": "refine-family"
+    },
+    "5073": {
+      "icon": "05070",
+      "reason": "refine-family"
+    },
+    "5074": {
+      "icon": "05070",
+      "reason": "refine-family"
+    },
+    "5076": {
+      "icon": "05070",
+      "reason": "refine-family"
+    },
+    "5080": {
+      "icon": "05080",
+      "reason": "exact-vnum"
+    },
+    "5081": {
+      "icon": "05080",
+      "reason": "refine-family"
+    },
+    "5082": {
+      "icon": "05080",
+      "reason": "refine-family"
+    },
+    "5083": {
+      "icon": "05080",
+      "reason": "refine-family"
+    },
+    "5084": {
+      "icon": "05080",
+      "reason": "refine-family"
+    },
+    "5089": {
+      "icon": "05080",
+      "reason": "refine-family"
+    },
+    "5090": {
+      "icon": "05090",
+      "reason": "exact-vnum"
+    },
+    "5091": {
+      "icon": "05090",
+      "reason": "refine-family"
+    },
+    "5092": {
+      "icon": "05090",
+      "reason": "refine-family"
+    },
+    "5093": {
+      "icon": "05090",
+      "reason": "refine-family"
+    },
+    "5094": {
+      "icon": "05090",
+      "reason": "refine-family"
+    },
+    "5095": {
+      "icon": "05090",
+      "reason": "refine-family"
+    },
+    "5097": {
+      "icon": "05090",
+      "reason": "refine-family"
+    },
+    "5100": {
+      "icon": "05100",
+      "reason": "exact-vnum"
+    },
+    "5101": {
+      "icon": "05100",
+      "reason": "refine-family"
+    },
+    "5102": {
+      "icon": "05100",
+      "reason": "refine-family"
+    },
+    "5103": {
+      "icon": "05100",
+      "reason": "refine-family"
+    },
+    "5104": {
+      "icon": "05100",
+      "reason": "refine-family"
+    },
+    "5106": {
+      "icon": "05100",
+      "reason": "refine-family"
+    },
+    "5107": {
+      "icon": "05100",
+      "reason": "refine-family"
+    },
+    "5110": {
+      "icon": "05110",
+      "reason": "exact-vnum"
+    },
+    "5115": {
+      "icon": "05110",
+      "reason": "refine-family"
+    },
+    "5117": {
+      "icon": "05110",
+      "reason": "refine-family"
+    },
+    "5118": {
+      "icon": "05110",
+      "reason": "refine-family"
+    },
+    "5119": {
+      "icon": "05110",
+      "reason": "refine-family"
+    },
+    "5121": {
+      "icon": "05120",
+      "reason": "refine-family"
+    },
+    "5126": {
+      "icon": "05120",
+      "reason": "refine-family"
+    },
+    "7001": {
+      "icon": "07000",
+      "reason": "refine-family"
+    },
+    "7002": {
+      "icon": "07000",
+      "reason": "refine-family"
+    },
+    "7003": {
+      "icon": "07000",
+      "reason": "refine-family"
+    },
+    "7004": {
+      "icon": "07000",
+      "reason": "refine-family"
+    },
+    "7007": {
+      "icon": "07000",
+      "reason": "refine-family"
+    },
+    "7010": {
+      "icon": "07010",
+      "reason": "exact-vnum"
+    },
+    "7012": {
+      "icon": "07010",
+      "reason": "refine-family"
+    },
+    "7016": {
+      "icon": "07010",
+      "reason": "refine-family"
+    },
+    "7020": {
+      "icon": "07020",
+      "reason": "exact-vnum"
+    },
+    "7021": {
+      "icon": "07020",
+      "reason": "refine-family"
+    },
+    "7022": {
+      "icon": "07020",
+      "reason": "refine-family"
+    },
+    "7030": {
+      "icon": "07030",
+      "reason": "exact-vnum"
+    },
+    "7031": {
+      "icon": "07030",
+      "reason": "refine-family"
+    },
+    "7032": {
+      "icon": "07030",
+      "reason": "refine-family"
+    },
+    "7035": {
+      "icon": "07030",
+      "reason": "refine-family"
+    },
+    "7036": {
+      "icon": "07030",
+      "reason": "refine-family"
+    },
+    "7039": {
+      "icon": "07030",
+      "reason": "refine-family"
+    },
+    "7041": {
+      "icon": "07040",
+      "reason": "refine-family"
+    },
+    "7050": {
+      "icon": "07050",
+      "reason": "exact-vnum"
+    },
+    "7051": {
+      "icon": "07050",
+      "reason": "refine-family"
+    },
+    "7052": {
+      "icon": "07050",
+      "reason": "refine-family"
+    },
+    "7053": {
+      "icon": "07050",
+      "reason": "refine-family"
+    },
+    "7054": {
+      "icon": "07050",
+      "reason": "refine-family"
+    },
+    "7056": {
+      "icon": "07050",
+      "reason": "refine-family"
+    },
+    "7057": {
+      "icon": "07050",
+      "reason": "refine-family"
+    },
+    "7060": {
+      "icon": "07060",
+      "reason": "exact-vnum"
+    },
+    "7061": {
+      "icon": "07060",
+      "reason": "refine-family"
+    },
+    "7062": {
+      "icon": "07060",
+      "reason": "refine-family"
+    },
+    "7064": {
+      "icon": "07060",
+      "reason": "refine-family"
+    },
+    "7070": {
+      "icon": "07070",
+      "reason": "exact-vnum"
+    },
+    "7071": {
+      "icon": "07070",
+      "reason": "refine-family"
+    },
+    "7072": {
+      "icon": "07070",
+      "reason": "refine-family"
+    },
+    "7074": {
+      "icon": "07070",
+      "reason": "refine-family"
+    },
+    "7075": {
+      "icon": "07070",
+      "reason": "refine-family"
+    },
+    "7077": {
+      "icon": "07070",
+      "reason": "refine-family"
+    },
+    "7080": {
+      "icon": "07080",
+      "reason": "exact-vnum"
+    },
+    "7081": {
+      "icon": "07080",
+      "reason": "refine-family"
+    },
+    "7082": {
+      "icon": "07080",
+      "reason": "refine-family"
+    },
+    "7090": {
+      "icon": "07090",
+      "reason": "exact-vnum"
+    },
+    "7091": {
+      "icon": "07090",
+      "reason": "refine-family"
+    },
+    "7092": {
+      "icon": "07090",
+      "reason": "refine-family"
+    },
+    "7093": {
+      "icon": "07090",
+      "reason": "refine-family"
+    },
+    "7094": {
+      "icon": "07090",
+      "reason": "refine-family"
+    },
+    "7096": {
+      "icon": "07090",
+      "reason": "refine-family"
+    },
+    "7100": {
+      "icon": "07100",
+      "reason": "exact-vnum"
+    },
+    "7101": {
+      "icon": "07100",
+      "reason": "refine-family"
+    },
+    "7102": {
+      "icon": "07100",
+      "reason": "refine-family"
+    },
+    "7103": {
+      "icon": "07100",
+      "reason": "refine-family"
+    },
+    "7110": {
+      "icon": "07110",
+      "reason": "exact-vnum"
+    },
+    "7111": {
+      "icon": "07110",
+      "reason": "refine-family"
+    },
+    "7112": {
+      "icon": "07110",
+      "reason": "refine-family"
+    },
+    "7114": {
+      "icon": "07110",
+      "reason": "refine-family"
+    },
+    "7120": {
+      "icon": "07120",
+      "reason": "exact-vnum"
+    },
+    "7121": {
+      "icon": "07120",
+      "reason": "refine-family"
+    },
+    "7122": {
+      "icon": "07120",
+      "reason": "refine-family"
+    },
+    "7123": {
+      "icon": "07120",
+      "reason": "refine-family"
+    },
+    "7130": {
+      "icon": "07130",
+      "reason": "exact-vnum"
+    },
+    "7131": {
+      "icon": "07130",
+      "reason": "refine-family"
+    },
+    "7132": {
+      "icon": "07130",
+      "reason": "refine-family"
+    },
+    "7133": {
+      "icon": "07130",
+      "reason": "refine-family"
+    },
+    "7134": {
+      "icon": "07130",
+      "reason": "refine-family"
+    },
+    "7136": {
+      "icon": "07130",
+      "reason": "refine-family"
+    },
+    "7137": {
+      "icon": "07130",
+      "reason": "refine-family"
+    },
+    "7140": {
+      "icon": "07140",
+      "reason": "exact-vnum"
+    },
+    "7141": {
+      "icon": "07140",
+      "reason": "refine-family"
+    },
+    "7142": {
+      "icon": "07140",
+      "reason": "refine-family"
+    },
+    "7143": {
+      "icon": "07140",
+      "reason": "refine-family"
+    },
+    "7144": {
+      "icon": "07140",
+      "reason": "refine-family"
+    },
+    "7145": {
+      "icon": "07140",
+      "reason": "refine-family"
+    },
+    "7146": {
+      "icon": "07140",
+      "reason": "refine-family"
+    },
+    "7147": {
+      "icon": "07140",
+      "reason": "refine-family"
+    },
+    "7148": {
+      "icon": "07140",
+      "reason": "refine-family"
+    },
+    "7149": {
+      "icon": "07140",
+      "reason": "refine-family"
+    },
+    "7150": {
+      "icon": "07150",
+      "reason": "exact-vnum"
+    },
+    "7156": {
+      "icon": "07150",
+      "reason": "refine-family"
+    },
+    "7160": {
+      "icon": "07160",
+      "reason": "exact-vnum"
+    },
+    "7161": {
+      "icon": "07160",
+      "reason": "refine-family"
+    },
+    "7162": {
+      "icon": "07160",
+      "reason": "refine-family"
+    },
+    "7163": {
+      "icon": "07160",
+      "reason": "refine-family"
+    },
+    "7164": {
+      "icon": "07160",
+      "reason": "refine-family"
+    },
+    "7167": {
+      "icon": "07160",
+      "reason": "refine-family"
+    },
+    "7168": {
+      "icon": "07160",
+      "reason": "refine-family"
+    },
+    "7169": {
+      "icon": "07160",
+      "reason": "refine-family"
+    },
+    "8004": {
+      "icon": "08004",
+      "reason": "exact-vnum"
+    },
+    "8005": {
+      "icon": "08005",
+      "reason": "exact-vnum"
+    },
+    "11200": {
+      "icon": "11200",
+      "reason": "exact-vnum"
+    },
+    "11202": {
+      "icon": "11200",
+      "reason": "refine-family"
+    },
+    "11203": {
+      "icon": "11200",
+      "reason": "refine-family"
+    },
+    "11204": {
+      "icon": "11200",
+      "reason": "refine-family"
+    },
+    "11205": {
+      "icon": "11200",
+      "reason": "refine-family"
+    },
+    "11206": {
+      "icon": "11200",
+      "reason": "refine-family"
+    },
+    "11208": {
+      "icon": "11200",
+      "reason": "refine-family"
+    },
+    "11209": {
+      "icon": "11200",
+      "reason": "refine-family"
+    },
+    "11210": {
+      "icon": "11210",
+      "reason": "exact-vnum"
+    },
+    "11211": {
+      "icon": "11210",
+      "reason": "refine-family"
+    },
+    "11212": {
+      "icon": "11210",
+      "reason": "refine-family"
+    },
+    "11213": {
+      "icon": "11210",
+      "reason": "refine-family"
+    },
+    "11215": {
+      "icon": "11210",
+      "reason": "refine-family"
+    },
+    "11216": {
+      "icon": "11210",
+      "reason": "refine-family"
+    },
+    "11218": {
+      "icon": "11210",
+      "reason": "refine-family"
+    },
+    "11219": {
+      "icon": "11210",
+      "reason": "refine-family"
+    },
+    "11220": {
+      "icon": "11220",
+      "reason": "exact-vnum"
+    },
+    "11221": {
+      "icon": "11220",
+      "reason": "refine-family"
+    },
+    "11222": {
+      "icon": "11220",
+      "reason": "refine-family"
+    },
+    "11223": {
+      "icon": "11220",
+      "reason": "refine-family"
+    },
+    "11224": {
+      "icon": "11220",
+      "reason": "refine-family"
+    },
+    "11225": {
+      "icon": "11220",
+      "reason": "refine-family"
+    },
+    "11226": {
+      "icon": "11220",
+      "reason": "refine-family"
+    },
+    "11227": {
+      "icon": "11220",
+      "reason": "refine-family"
+    },
+    "11228": {
+      "icon": "11220",
+      "reason": "refine-family"
+    },
+    "11229": {
+      "icon": "11220",
+      "reason": "refine-family"
+    },
+    "11230": {
+      "icon": "11230",
+      "reason": "exact-vnum"
+    },
+    "11231": {
+      "icon": "11230",
+      "reason": "refine-family"
+    },
+    "11232": {
+      "icon": "11230",
+      "reason": "refine-family"
+    },
+    "11233": {
+      "icon": "11230",
+      "reason": "refine-family"
+    },
+    "11234": {
+      "icon": "11230",
+      "reason": "refine-family"
+    },
+    "11235": {
+      "icon": "11230",
+      "reason": "refine-family"
+    },
+    "11236": {
+      "icon": "11230",
+      "reason": "refine-family"
+    },
+    "11237": {
+      "icon": "11230",
+      "reason": "refine-family"
+    },
+    "11238": {
+      "icon": "11230",
+      "reason": "refine-family"
+    },
+    "11239": {
+      "icon": "11230",
+      "reason": "refine-family"
+    },
+    "11240": {
+      "icon": "11240",
+      "reason": "exact-vnum"
+    },
+    "11241": {
+      "icon": "11240",
+      "reason": "refine-family"
+    },
+    "11242": {
+      "icon": "11240",
+      "reason": "refine-family"
+    },
+    "11243": {
+      "icon": "11240",
+      "reason": "refine-family"
+    },
+    "11244": {
+      "icon": "11240",
+      "reason": "refine-family"
+    },
+    "11245": {
+      "icon": "11240",
+      "reason": "refine-family"
+    },
+    "11246": {
+      "icon": "11240",
+      "reason": "refine-family"
+    },
+    "11247": {
+      "icon": "11240",
+      "reason": "refine-family"
+    },
+    "11250": {
+      "icon": "11250",
+      "reason": "exact-vnum"
+    },
+    "11251": {
+      "icon": "11250",
+      "reason": "refine-family"
+    },
+    "11252": {
+      "icon": "11250",
+      "reason": "refine-family"
+    },
+    "11253": {
+      "icon": "11250",
+      "reason": "refine-family"
+    },
+    "11254": {
+      "icon": "11250",
+      "reason": "refine-family"
+    },
+    "11255": {
+      "icon": "11250",
+      "reason": "refine-family"
+    },
+    "11259": {
+      "icon": "11250",
+      "reason": "refine-family"
+    },
+    "11260": {
+      "icon": "11260",
+      "reason": "exact-vnum"
+    },
+    "11262": {
+      "icon": "11260",
+      "reason": "refine-family"
+    },
+    "11263": {
+      "icon": "11260",
+      "reason": "refine-family"
+    },
+    "11264": {
+      "icon": "11260",
+      "reason": "refine-family"
+    },
+    "11266": {
+      "icon": "11260",
+      "reason": "refine-family"
+    },
+    "11270": {
+      "icon": "11270",
+      "reason": "exact-vnum"
+    },
+    "11271": {
+      "icon": "11270",
+      "reason": "refine-family"
+    },
+    "11272": {
+      "icon": "11270",
+      "reason": "refine-family"
+    },
+    "11273": {
+      "icon": "11270",
+      "reason": "refine-family"
+    },
+    "11274": {
+      "icon": "11270",
+      "reason": "refine-family"
+    },
+    "11276": {
+      "icon": "11270",
+      "reason": "refine-family"
+    },
+    "11278": {
+      "icon": "11270",
+      "reason": "refine-family"
+    },
+    "11280": {
+      "icon": "11280",
+      "reason": "exact-vnum"
+    },
+    "11281": {
+      "icon": "11280",
+      "reason": "refine-family"
+    },
+    "11282": {
+      "icon": "11280",
+      "reason": "refine-family"
+    },
+    "11283": {
+      "icon": "11280",
+      "reason": "refine-family"
+    },
+    "11284": {
+      "icon": "11280",
+      "reason": "refine-family"
+    },
+    "11286": {
+      "icon": "11280",
+      "reason": "refine-family"
+    },
+    "11287": {
+      "icon": "11280",
+      "reason": "refine-family"
+    },
+    "11288": {
+      "icon": "11280",
+      "reason": "refine-family"
+    },
+    "11289": {
+      "icon": "11280",
+      "reason": "refine-family"
+    },
+    "11290": {
+      "icon": "11290",
+      "reason": "exact-vnum"
+    },
+    "11291": {
+      "icon": "11290",
+      "reason": "refine-family"
+    },
+    "11293": {
+      "icon": "11290",
+      "reason": "refine-family"
+    },
+    "11294": {
+      "icon": "11290",
+      "reason": "refine-family"
+    },
+    "11296": {
+      "icon": "11290",
+      "reason": "refine-family"
+    },
+    "11297": {
+      "icon": "11290",
+      "reason": "refine-family"
+    },
+    "11298": {
+      "icon": "11290",
+      "reason": "refine-family"
+    },
+    "11400": {
+      "icon": "11400",
+      "reason": "exact-vnum"
+    },
+    "11401": {
+      "icon": "11400",
+      "reason": "refine-family"
+    },
+    "11402": {
+      "icon": "11400",
+      "reason": "refine-family"
+    },
+    "11403": {
+      "icon": "11400",
+      "reason": "refine-family"
+    },
+    "11404": {
+      "icon": "11400",
+      "reason": "refine-family"
+    },
+    "11408": {
+      "icon": "11400",
+      "reason": "refine-family"
+    },
+    "11409": {
+      "icon": "11400",
+      "reason": "refine-family"
+    },
+    "11410": {
+      "icon": "11410",
+      "reason": "exact-vnum"
+    },
+    "11411": {
+      "icon": "11410",
+      "reason": "refine-family"
+    },
+    "11412": {
+      "icon": "11410",
+      "reason": "refine-family"
+    },
+    "11416": {
+      "icon": "11410",
+      "reason": "refine-family"
+    },
+    "11417": {
+      "icon": "11410",
+      "reason": "refine-family"
+    },
+    "11419": {
+      "icon": "11410",
+      "reason": "refine-family"
+    },
+    "11420": {
+      "icon": "11420",
+      "reason": "exact-vnum"
+    },
+    "11421": {
+      "icon": "11420",
+      "reason": "refine-family"
+    },
+    "11422": {
+      "icon": "11420",
+      "reason": "refine-family"
+    },
+    "11423": {
+      "icon": "11420",
+      "reason": "refine-family"
+    },
+    "11424": {
+      "icon": "11420",
+      "reason": "refine-family"
+    },
+    "11425": {
+      "icon": "11420",
+      "reason": "refine-family"
+    },
+    "11426": {
+      "icon": "11420",
+      "reason": "refine-family"
+    },
+    "11427": {
+      "icon": "11420",
+      "reason": "refine-family"
+    },
+    "11429": {
+      "icon": "11420",
+      "reason": "refine-family"
+    },
+    "11430": {
+      "icon": "11430",
+      "reason": "exact-vnum"
+    },
+    "11431": {
+      "icon": "11430",
+      "reason": "refine-family"
+    },
+    "11432": {
+      "icon": "11430",
+      "reason": "refine-family"
+    },
+    "11433": {
+      "icon": "11430",
+      "reason": "refine-family"
+    },
+    "11434": {
+      "icon": "11430",
+      "reason": "refine-family"
+    },
+    "11436": {
+      "icon": "11430",
+      "reason": "refine-family"
+    },
+    "11440": {
+      "icon": "11440",
+      "reason": "exact-vnum"
+    },
+    "11441": {
+      "icon": "11440",
+      "reason": "refine-family"
+    },
+    "11442": {
+      "icon": "11440",
+      "reason": "refine-family"
+    },
+    "11443": {
+      "icon": "11440",
+      "reason": "refine-family"
+    },
+    "11444": {
+      "icon": "11440",
+      "reason": "refine-family"
+    },
+    "11446": {
+      "icon": "11440",
+      "reason": "refine-family"
+    },
+    "11450": {
+      "icon": "11450",
+      "reason": "exact-vnum"
+    },
+    "11451": {
+      "icon": "11450",
+      "reason": "refine-family"
+    },
+    "11452": {
+      "icon": "11450",
+      "reason": "refine-family"
+    },
+    "11453": {
+      "icon": "11450",
+      "reason": "refine-family"
+    },
+    "11454": {
+      "icon": "11450",
+      "reason": "refine-family"
+    },
+    "11455": {
+      "icon": "11450",
+      "reason": "refine-family"
+    },
+    "11457": {
+      "icon": "11450",
+      "reason": "refine-family"
+    },
+    "11459": {
+      "icon": "11450",
+      "reason": "refine-family"
+    },
+    "11460": {
+      "icon": "11460",
+      "reason": "exact-vnum"
+    },
+    "11462": {
+      "icon": "11460",
+      "reason": "refine-family"
+    },
+    "11463": {
+      "icon": "11460",
+      "reason": "refine-family"
+    },
+    "11470": {
+      "icon": "11470",
+      "reason": "exact-vnum"
+    },
+    "11471": {
+      "icon": "11470",
+      "reason": "refine-family"
+    },
+    "11472": {
+      "icon": "11470",
+      "reason": "refine-family"
+    },
+    "11474": {
+      "icon": "11470",
+      "reason": "refine-family"
+    },
+    "11480": {
+      "icon": "11480",
+      "reason": "exact-vnum"
+    },
+    "11481": {
+      "icon": "11480",
+      "reason": "refine-family"
+    },
+    "11482": {
+      "icon": "11480",
+      "reason": "refine-family"
+    },
+    "11483": {
+      "icon": "11480",
+      "reason": "refine-family"
+    },
+    "11484": {
+      "icon": "11480",
+      "reason": "refine-family"
+    },
+    "11485": {
+      "icon": "11480",
+      "reason": "refine-family"
+    },
+    "11486": {
+      "icon": "11480",
+      "reason": "refine-family"
+    },
+    "11487": {
+      "icon": "11480",
+      "reason": "refine-family"
+    },
+    "11488": {
+      "icon": "11480",
+      "reason": "refine-family"
+    },
+    "11490": {
+      "icon": "11490",
+      "reason": "exact-vnum"
+    },
+    "11491": {
+      "icon": "11490",
+      "reason": "refine-family"
+    },
+    "11494": {
+      "icon": "11490",
+      "reason": "refine-family"
+    },
+    "11496": {
+      "icon": "11490",
+      "reason": "refine-family"
+    },
+    "11600": {
+      "icon": "11600",
+      "reason": "exact-vnum"
+    },
+    "11602": {
+      "icon": "11600",
+      "reason": "refine-family"
+    },
+    "11604": {
+      "icon": "11600",
+      "reason": "refine-family"
+    },
+    "11605": {
+      "icon": "11600",
+      "reason": "refine-family"
+    },
+    "11606": {
+      "icon": "11600",
+      "reason": "refine-family"
+    },
+    "11607": {
+      "icon": "11600",
+      "reason": "refine-family"
+    },
+    "11609": {
+      "icon": "11600",
+      "reason": "refine-family"
+    },
+    "11610": {
+      "icon": "11610",
+      "reason": "exact-vnum"
+    },
+    "11611": {
+      "icon": "11610",
+      "reason": "refine-family"
+    },
+    "11612": {
+      "icon": "11610",
+      "reason": "refine-family"
+    },
+    "11613": {
+      "icon": "11610",
+      "reason": "refine-family"
+    },
+    "11614": {
+      "icon": "11610",
+      "reason": "refine-family"
+    },
+    "11615": {
+      "icon": "11610",
+      "reason": "refine-family"
+    },
+    "11616": {
+      "icon": "11610",
+      "reason": "refine-family"
+    },
+    "11617": {
+      "icon": "11610",
+      "reason": "refine-family"
+    },
+    "11618": {
+      "icon": "11610",
+      "reason": "refine-family"
+    },
+    "11619": {
+      "icon": "11610",
+      "reason": "refine-family"
+    },
+    "11620": {
+      "icon": "11620",
+      "reason": "exact-vnum"
+    },
+    "11621": {
+      "icon": "11620",
+      "reason": "refine-family"
+    },
+    "11622": {
+      "icon": "11620",
+      "reason": "refine-family"
+    },
+    "11624": {
+      "icon": "11620",
+      "reason": "refine-family"
+    },
+    "11625": {
+      "icon": "11620",
+      "reason": "refine-family"
+    },
+    "11626": {
+      "icon": "11620",
+      "reason": "refine-family"
+    },
+    "11627": {
+      "icon": "11620",
+      "reason": "refine-family"
+    },
+    "11628": {
+      "icon": "11620",
+      "reason": "refine-family"
+    },
+    "11629": {
+      "icon": "11620",
+      "reason": "refine-family"
+    },
+    "11630": {
+      "icon": "11630",
+      "reason": "exact-vnum"
+    },
+    "11631": {
+      "icon": "11630",
+      "reason": "refine-family"
+    },
+    "11632": {
+      "icon": "11630",
+      "reason": "refine-family"
+    },
+    "11634": {
+      "icon": "11630",
+      "reason": "refine-family"
+    },
+    "11635": {
+      "icon": "11630",
+      "reason": "refine-family"
+    },
+    "11636": {
+      "icon": "11630",
+      "reason": "refine-family"
+    },
+    "11637": {
+      "icon": "11630",
+      "reason": "refine-family"
+    },
+    "11639": {
+      "icon": "11630",
+      "reason": "refine-family"
+    },
+    "11640": {
+      "icon": "11640",
+      "reason": "exact-vnum"
+    },
+    "11641": {
+      "icon": "11640",
+      "reason": "refine-family"
+    },
+    "11642": {
+      "icon": "11640",
+      "reason": "refine-family"
+    },
+    "11643": {
+      "icon": "11640",
+      "reason": "refine-family"
+    },
+    "11644": {
+      "icon": "11640",
+      "reason": "refine-family"
+    },
+    "11645": {
+      "icon": "11640",
+      "reason": "refine-family"
+    },
+    "11646": {
+      "icon": "11640",
+      "reason": "refine-family"
+    },
+    "11647": {
+      "icon": "11640",
+      "reason": "refine-family"
+    },
+    "11648": {
+      "icon": "11640",
+      "reason": "refine-family"
+    },
+    "11649": {
+      "icon": "11640",
+      "reason": "refine-family"
+    },
+    "11650": {
+      "icon": "11650",
+      "reason": "exact-vnum"
+    },
+    "11651": {
+      "icon": "11650",
+      "reason": "refine-family"
+    },
+    "11652": {
+      "icon": "11650",
+      "reason": "refine-family"
+    },
+    "11653": {
+      "icon": "11650",
+      "reason": "refine-family"
+    },
+    "11654": {
+      "icon": "11650",
+      "reason": "refine-family"
+    },
+    "11655": {
+      "icon": "11650",
+      "reason": "refine-family"
+    },
+    "11656": {
+      "icon": "11650",
+      "reason": "refine-family"
+    },
+    "11660": {
+      "icon": "11660",
+      "reason": "exact-vnum"
+    },
+    "11661": {
+      "icon": "11660",
+      "reason": "refine-family"
+    },
+    "11662": {
+      "icon": "11660",
+      "reason": "refine-family"
+    },
+    "11663": {
+      "icon": "11660",
+      "reason": "refine-family"
+    },
+    "11664": {
+      "icon": "11660",
+      "reason": "refine-family"
+    },
+    "11670": {
+      "icon": "11670",
+      "reason": "exact-vnum"
+    },
+    "11671": {
+      "icon": "11670",
+      "reason": "refine-family"
+    },
+    "11672": {
+      "icon": "11670",
+      "reason": "refine-family"
+    },
+    "11673": {
+      "icon": "11670",
+      "reason": "refine-family"
+    },
+    "11674": {
+      "icon": "11670",
+      "reason": "refine-family"
+    },
+    "11676": {
+      "icon": "11670",
+      "reason": "refine-family"
+    },
+    "11680": {
+      "icon": "11680",
+      "reason": "exact-vnum"
+    },
+    "11681": {
+      "icon": "11680",
+      "reason": "refine-family"
+    },
+    "11682": {
+      "icon": "11680",
+      "reason": "refine-family"
+    },
+    "11683": {
+      "icon": "11680",
+      "reason": "refine-family"
+    },
+    "11684": {
+      "icon": "11680",
+      "reason": "refine-family"
+    },
+    "11685": {
+      "icon": "11680",
+      "reason": "refine-family"
+    },
+    "11686": {
+      "icon": "11680",
+      "reason": "refine-family"
+    },
+    "11687": {
+      "icon": "11680",
+      "reason": "refine-family"
+    },
+    "11688": {
+      "icon": "11680",
+      "reason": "refine-family"
+    },
+    "11690": {
+      "icon": "11690",
+      "reason": "exact-vnum"
+    },
+    "11691": {
+      "icon": "11690",
+      "reason": "refine-family"
+    },
+    "11692": {
+      "icon": "11690",
+      "reason": "refine-family"
+    },
+    "11694": {
+      "icon": "11690",
+      "reason": "refine-family"
+    },
+    "11695": {
+      "icon": "11690",
+      "reason": "refine-family"
+    },
+    "11696": {
+      "icon": "11690",
+      "reason": "refine-family"
+    },
+    "11697": {
+      "icon": "11690",
+      "reason": "refine-family"
+    },
+    "11699": {
+      "icon": "11690",
+      "reason": "refine-family"
+    },
+    "11800": {
+      "icon": "11800",
+      "reason": "exact-vnum"
+    },
+    "11801": {
+      "icon": "11800",
+      "reason": "refine-family"
+    },
+    "11802": {
+      "icon": "11800",
+      "reason": "refine-family"
+    },
+    "11805": {
+      "icon": "11800",
+      "reason": "refine-family"
+    },
+    "11806": {
+      "icon": "11800",
+      "reason": "refine-family"
+    },
+    "11809": {
+      "icon": "11800",
+      "reason": "refine-family"
+    },
+    "11810": {
+      "icon": "11810",
+      "reason": "exact-vnum"
+    },
+    "11811": {
+      "icon": "11810",
+      "reason": "refine-family"
+    },
+    "11812": {
+      "icon": "11810",
+      "reason": "refine-family"
+    },
+    "11816": {
+      "icon": "11810",
+      "reason": "refine-family"
+    },
+    "11818": {
+      "icon": "11810",
+      "reason": "refine-family"
+    },
+    "11820": {
+      "icon": "11820",
+      "reason": "exact-vnum"
+    },
+    "11821": {
+      "icon": "11820",
+      "reason": "refine-family"
+    },
+    "11822": {
+      "icon": "11820",
+      "reason": "refine-family"
+    },
+    "11823": {
+      "icon": "11820",
+      "reason": "refine-family"
+    },
+    "11826": {
+      "icon": "11820",
+      "reason": "refine-family"
+    },
+    "11828": {
+      "icon": "11820",
+      "reason": "refine-family"
+    },
+    "11829": {
+      "icon": "11820",
+      "reason": "refine-family"
+    },
+    "11830": {
+      "icon": "11830",
+      "reason": "exact-vnum"
+    },
+    "11831": {
+      "icon": "11830",
+      "reason": "refine-family"
+    },
+    "11832": {
+      "icon": "11830",
+      "reason": "refine-family"
+    },
+    "11834": {
+      "icon": "11830",
+      "reason": "refine-family"
+    },
+    "11835": {
+      "icon": "11830",
+      "reason": "refine-family"
+    },
+    "11837": {
+      "icon": "11830",
+      "reason": "refine-family"
+    },
+    "11840": {
+      "icon": "11840",
+      "reason": "exact-vnum"
+    },
+    "11841": {
+      "icon": "11840",
+      "reason": "refine-family"
+    },
+    "11842": {
+      "icon": "11840",
+      "reason": "refine-family"
+    },
+    "11843": {
+      "icon": "11840",
+      "reason": "refine-family"
+    },
+    "11844": {
+      "icon": "11840",
+      "reason": "refine-family"
+    },
+    "11845": {
+      "icon": "11840",
+      "reason": "refine-family"
+    },
+    "11850": {
+      "icon": "11850",
+      "reason": "exact-vnum"
+    },
+    "11851": {
+      "icon": "11850",
+      "reason": "refine-family"
+    },
+    "11852": {
+      "icon": "11850",
+      "reason": "refine-family"
+    },
+    "11853": {
+      "icon": "11850",
+      "reason": "refine-family"
+    },
+    "11854": {
+      "icon": "11850",
+      "reason": "refine-family"
+    },
+    "11857": {
+      "icon": "11850",
+      "reason": "refine-family"
+    },
+    "11860": {
+      "icon": "11860",
+      "reason": "exact-vnum"
+    },
+    "11861": {
+      "icon": "11860",
+      "reason": "refine-family"
+    },
+    "11863": {
+      "icon": "11860",
+      "reason": "refine-family"
+    },
+    "11864": {
+      "icon": "11860",
+      "reason": "refine-family"
+    },
+    "11866": {
+      "icon": "11860",
+      "reason": "refine-family"
+    },
+    "11870": {
+      "icon": "11870",
+      "reason": "exact-vnum"
+    },
+    "11871": {
+      "icon": "11870",
+      "reason": "refine-family"
+    },
+    "11872": {
+      "icon": "11870",
+      "reason": "refine-family"
+    },
+    "11873": {
+      "icon": "11870",
+      "reason": "refine-family"
+    },
+    "11876": {
+      "icon": "11870",
+      "reason": "refine-family"
+    },
+    "11880": {
+      "icon": "11880",
+      "reason": "exact-vnum"
+    },
+    "11881": {
+      "icon": "11880",
+      "reason": "refine-family"
+    },
+    "11882": {
+      "icon": "11880",
+      "reason": "refine-family"
+    },
+    "11883": {
+      "icon": "11880",
+      "reason": "refine-family"
+    },
+    "11884": {
+      "icon": "11880",
+      "reason": "refine-family"
+    },
+    "11885": {
+      "icon": "11880",
+      "reason": "refine-family"
+    },
+    "11886": {
+      "icon": "11880",
+      "reason": "refine-family"
+    },
+    "11887": {
+      "icon": "11880",
+      "reason": "refine-family"
+    },
+    "11888": {
+      "icon": "11880",
+      "reason": "refine-family"
+    },
+    "11890": {
+      "icon": "11890",
+      "reason": "exact-vnum"
+    },
+    "11891": {
+      "icon": "11890",
+      "reason": "refine-family"
+    },
+    "11894": {
+      "icon": "11890",
+      "reason": "refine-family"
+    },
+    "11895": {
+      "icon": "11890",
+      "reason": "refine-family"
+    },
+    "11896": {
+      "icon": "11890",
+      "reason": "refine-family"
+    },
+    "11897": {
+      "icon": "11890",
+      "reason": "refine-family"
+    },
+    "11898": {
+      "icon": "11890",
+      "reason": "refine-family"
+    },
+    "11901": {
+      "icon": "11901",
+      "reason": "exact-vnum"
+    },
+    "11903": {
+      "icon": "11903",
+      "reason": "exact-vnum"
+    },
+    "12200": {
+      "icon": "12200",
+      "reason": "exact-vnum"
+    },
+    "12203": {
+      "icon": "12200",
+      "reason": "refine-family"
+    },
+    "12204": {
+      "icon": "12200",
+      "reason": "refine-family"
+    },
+    "12205": {
+      "icon": "12200",
+      "reason": "refine-family"
+    },
+    "12206": {
+      "icon": "12200",
+      "reason": "refine-family"
+    },
+    "12207": {
+      "icon": "12200",
+      "reason": "refine-family"
+    },
+    "12208": {
+      "icon": "12200",
+      "reason": "refine-family"
+    },
+    "12209": {
+      "icon": "12200",
+      "reason": "refine-family"
+    },
+    "12220": {
+      "icon": "12220",
+      "reason": "exact-vnum"
+    },
+    "12222": {
+      "icon": "12220",
+      "reason": "refine-family"
+    },
+    "12223": {
+      "icon": "12220",
+      "reason": "refine-family"
+    },
+    "12224": {
+      "icon": "12220",
+      "reason": "refine-family"
+    },
+    "12225": {
+      "icon": "12220",
+      "reason": "refine-family"
+    },
+    "12226": {
+      "icon": "12220",
+      "reason": "refine-family"
+    },
+    "12227": {
+      "icon": "12220",
+      "reason": "refine-family"
+    },
+    "12228": {
+      "icon": "12220",
+      "reason": "refine-family"
+    },
+    "12229": {
+      "icon": "12220",
+      "reason": "refine-family"
+    },
+    "12240": {
+      "icon": "12240",
+      "reason": "exact-vnum"
+    },
+    "12241": {
+      "icon": "12240",
+      "reason": "refine-family"
+    },
+    "12242": {
+      "icon": "12240",
+      "reason": "refine-family"
+    },
+    "12243": {
+      "icon": "12240",
+      "reason": "refine-family"
+    },
+    "12244": {
+      "icon": "12240",
+      "reason": "refine-family"
+    },
+    "12245": {
+      "icon": "12240",
+      "reason": "refine-family"
+    },
+    "12246": {
+      "icon": "12240",
+      "reason": "refine-family"
+    },
+    "12247": {
+      "icon": "12240",
+      "reason": "refine-family"
+    },
+    "12248": {
+      "icon": "12240",
+      "reason": "refine-family"
+    },
+    "12260": {
+      "icon": "12260",
+      "reason": "exact-vnum"
+    },
+    "12261": {
+      "icon": "12260",
+      "reason": "refine-family"
+    },
+    "12264": {
+      "icon": "12260",
+      "reason": "refine-family"
+    },
+    "12340": {
+      "icon": "12340",
+      "reason": "exact-vnum"
+    },
+    "12342": {
+      "icon": "12340",
+      "reason": "refine-family"
+    },
+    "12344": {
+      "icon": "12340",
+      "reason": "refine-family"
+    },
+    "12346": {
+      "icon": "12340",
+      "reason": "refine-family"
+    },
+    "12347": {
+      "icon": "12340",
+      "reason": "refine-family"
+    },
+    "12349": {
+      "icon": "12340",
+      "reason": "refine-family"
+    },
+    "12360": {
+      "icon": "12360",
+      "reason": "exact-vnum"
+    },
+    "12362": {
+      "icon": "12360",
+      "reason": "refine-family"
+    },
+    "12363": {
+      "icon": "12360",
+      "reason": "refine-family"
+    },
+    "12364": {
+      "icon": "12360",
+      "reason": "refine-family"
+    },
+    "12365": {
+      "icon": "12360",
+      "reason": "refine-family"
+    },
+    "12366": {
+      "icon": "12360",
+      "reason": "refine-family"
+    },
+    "12367": {
+      "icon": "12360",
+      "reason": "refine-family"
+    },
+    "12369": {
+      "icon": "12360",
+      "reason": "refine-family"
+    },
+    "12380": {
+      "icon": "12380",
+      "reason": "exact-vnum"
+    },
+    "12382": {
+      "icon": "12380",
+      "reason": "refine-family"
+    },
+    "12383": {
+      "icon": "12380",
+      "reason": "refine-family"
+    },
+    "12384": {
+      "icon": "12380",
+      "reason": "refine-family"
+    },
+    "12386": {
+      "icon": "12380",
+      "reason": "refine-family"
+    },
+    "12390": {
+      "icon": "12390",
+      "reason": "exact-vnum"
+    },
+    "12480": {
+      "icon": "12480",
+      "reason": "exact-vnum"
+    },
+    "12482": {
+      "icon": "12480",
+      "reason": "refine-family"
+    },
+    "12484": {
+      "icon": "12480",
+      "reason": "refine-family"
+    },
+    "12485": {
+      "icon": "12480",
+      "reason": "refine-family"
+    },
+    "12486": {
+      "icon": "12480",
+      "reason": "refine-family"
+    },
+    "12487": {
+      "icon": "12480",
+      "reason": "refine-family"
+    },
+    "12488": {
+      "icon": "12480",
+      "reason": "refine-family"
+    },
+    "12489": {
+      "icon": "12480",
+      "reason": "refine-family"
+    },
+    "12500": {
+      "icon": "12500",
+      "reason": "exact-vnum"
+    },
+    "12501": {
+      "icon": "12500",
+      "reason": "refine-family"
+    },
+    "12502": {
+      "icon": "12500",
+      "reason": "refine-family"
+    },
+    "12503": {
+      "icon": "12500",
+      "reason": "refine-family"
+    },
+    "12504": {
+      "icon": "12500",
+      "reason": "refine-family"
+    },
+    "12505": {
+      "icon": "12500",
+      "reason": "refine-family"
+    },
+    "12506": {
+      "icon": "12500",
+      "reason": "refine-family"
+    },
+    "12507": {
+      "icon": "12500",
+      "reason": "refine-family"
+    },
+    "12508": {
+      "icon": "12500",
+      "reason": "refine-family"
+    },
+    "12509": {
+      "icon": "12500",
+      "reason": "refine-family"
+    },
+    "12520": {
+      "icon": "12520",
+      "reason": "exact-vnum"
+    },
+    "12522": {
+      "icon": "12520",
+      "reason": "refine-family"
+    },
+    "12523": {
+      "icon": "12520",
+      "reason": "refine-family"
+    },
+    "12524": {
+      "icon": "12520",
+      "reason": "refine-family"
+    },
+    "12525": {
+      "icon": "12520",
+      "reason": "refine-family"
+    },
+    "12526": {
+      "icon": "12520",
+      "reason": "refine-family"
+    },
+    "12527": {
+      "icon": "12520",
+      "reason": "refine-family"
+    },
+    "12528": {
+      "icon": "12520",
+      "reason": "refine-family"
+    },
+    "12530": {
+      "icon": "12530",
+      "reason": "exact-vnum"
+    },
+    "12533": {
+      "icon": "12530",
+      "reason": "refine-family"
+    },
+    "12534": {
+      "icon": "12530",
+      "reason": "refine-family"
+    },
+    "12622": {
+      "icon": "12620",
+      "reason": "refine-family"
+    },
+    "12624": {
+      "icon": "12620",
+      "reason": "refine-family"
+    },
+    "12626": {
+      "icon": "12620",
+      "reason": "refine-family"
+    },
+    "12629": {
+      "icon": "12620",
+      "reason": "refine-family"
+    },
+    "12640": {
+      "icon": "12640",
+      "reason": "exact-vnum"
+    },
+    "12642": {
+      "icon": "12640",
+      "reason": "refine-family"
+    },
+    "12643": {
+      "icon": "12640",
+      "reason": "refine-family"
+    },
+    "12644": {
+      "icon": "12640",
+      "reason": "refine-family"
+    },
+    "12645": {
+      "icon": "12640",
+      "reason": "refine-family"
+    },
+    "12646": {
+      "icon": "12640",
+      "reason": "refine-family"
+    },
+    "12648": {
+      "icon": "12640",
+      "reason": "refine-family"
+    },
+    "12649": {
+      "icon": "12640",
+      "reason": "refine-family"
+    },
+    "12660": {
+      "icon": "12660",
+      "reason": "exact-vnum"
+    },
+    "12662": {
+      "icon": "12660",
+      "reason": "refine-family"
+    },
+    "12663": {
+      "icon": "12660",
+      "reason": "refine-family"
+    },
+    "12664": {
+      "icon": "12660",
+      "reason": "refine-family"
+    },
+    "12666": {
+      "icon": "12660",
+      "reason": "refine-family"
+    },
+    "12667": {
+      "icon": "12660",
+      "reason": "refine-family"
+    },
+    "12670": {
+      "icon": "12670",
+      "reason": "exact-vnum"
+    },
+    "12674": {
+      "icon": "12670",
+      "reason": "refine-family"
+    },
+    "13000": {
+      "icon": "13000",
+      "reason": "exact-vnum"
+    },
+    "13001": {
+      "icon": "13000",
+      "reason": "refine-family"
+    },
+    "13004": {
+      "icon": "13000",
+      "reason": "refine-family"
+    },
+    "13005": {
+      "icon": "13000",
+      "reason": "refine-family"
+    },
+    "13006": {
+      "icon": "13000",
+      "reason": "refine-family"
+    },
+    "13007": {
+      "icon": "13000",
+      "reason": "refine-family"
+    },
+    "13008": {
+      "icon": "13000",
+      "reason": "refine-family"
+    },
+    "13009": {
+      "icon": "13000",
+      "reason": "refine-family"
+    },
+    "13022": {
+      "icon": "13020",
+      "reason": "refine-family"
+    },
+    "13023": {
+      "icon": "13020",
+      "reason": "refine-family"
+    },
+    "13024": {
+      "icon": "13020",
+      "reason": "refine-family"
+    },
+    "13025": {
+      "icon": "13020",
+      "reason": "refine-family"
+    },
+    "13026": {
+      "icon": "13020",
+      "reason": "refine-family"
+    },
+    "13027": {
+      "icon": "13020",
+      "reason": "refine-family"
+    },
+    "13028": {
+      "icon": "13020",
+      "reason": "refine-family"
+    },
+    "13029": {
+      "icon": "13020",
+      "reason": "refine-family"
+    },
+    "13041": {
+      "icon": "13040",
+      "reason": "refine-family"
+    },
+    "13042": {
+      "icon": "13040",
+      "reason": "refine-family"
+    },
+    "13043": {
+      "icon": "13040",
+      "reason": "refine-family"
+    },
+    "13044": {
+      "icon": "13040",
+      "reason": "refine-family"
+    },
+    "13045": {
+      "icon": "13040",
+      "reason": "refine-family"
+    },
+    "13046": {
+      "icon": "13040",
+      "reason": "refine-family"
+    },
+    "13047": {
+      "icon": "13040",
+      "reason": "refine-family"
+    },
+    "13048": {
+      "icon": "13040",
+      "reason": "refine-family"
+    },
+    "13049": {
+      "icon": "13040",
+      "reason": "refine-family"
+    },
+    "13060": {
+      "icon": "13060",
+      "reason": "exact-vnum"
+    },
+    "13062": {
+      "icon": "13060",
+      "reason": "refine-family"
+    },
+    "13063": {
+      "icon": "13060",
+      "reason": "refine-family"
+    },
+    "13064": {
+      "icon": "13060",
+      "reason": "refine-family"
+    },
+    "13066": {
+      "icon": "13060",
+      "reason": "refine-family"
+    },
+    "13067": {
+      "icon": "13060",
+      "reason": "refine-family"
+    },
+    "13068": {
+      "icon": "13060",
+      "reason": "refine-family"
+    },
+    "13080": {
+      "icon": "13080",
+      "reason": "exact-vnum"
+    },
+    "13082": {
+      "icon": "13080",
+      "reason": "refine-family"
+    },
+    "13084": {
+      "icon": "13080",
+      "reason": "refine-family"
+    },
+    "13086": {
+      "icon": "13080",
+      "reason": "refine-family"
+    },
+    "13088": {
+      "icon": "13080",
+      "reason": "refine-family"
+    },
+    "13100": {
+      "icon": "13100",
+      "reason": "exact-vnum"
+    },
+    "13101": {
+      "icon": "13100",
+      "reason": "refine-family"
+    },
+    "13102": {
+      "icon": "13100",
+      "reason": "refine-family"
+    },
+    "13104": {
+      "icon": "13100",
+      "reason": "refine-family"
+    },
+    "13105": {
+      "icon": "13100",
+      "reason": "refine-family"
+    },
+    "13106": {
+      "icon": "13100",
+      "reason": "refine-family"
+    },
+    "13107": {
+      "icon": "13100",
+      "reason": "refine-family"
+    },
+    "13108": {
+      "icon": "13100",
+      "reason": "refine-family"
+    },
+    "13120": {
+      "icon": "13120",
+      "reason": "exact-vnum"
+    },
+    "13121": {
+      "icon": "13120",
+      "reason": "refine-family"
+    },
+    "13122": {
+      "icon": "13120",
+      "reason": "refine-family"
+    },
+    "13123": {
+      "icon": "13120",
+      "reason": "refine-family"
+    },
+    "13124": {
+      "icon": "13120",
+      "reason": "refine-family"
+    },
+    "13125": {
+      "icon": "13120",
+      "reason": "refine-family"
+    },
+    "13126": {
+      "icon": "13120",
+      "reason": "refine-family"
+    },
+    "13127": {
+      "icon": "13120",
+      "reason": "refine-family"
+    },
+    "13128": {
+      "icon": "13120",
+      "reason": "refine-family"
+    },
+    "14000": {
+      "icon": "14000",
+      "reason": "exact-vnum"
+    },
+    "14003": {
+      "icon": "14000",
+      "reason": "refine-family"
+    },
+    "14004": {
+      "icon": "14000",
+      "reason": "refine-family"
+    },
+    "14005": {
+      "icon": "14000",
+      "reason": "refine-family"
+    },
+    "14006": {
+      "icon": "14000",
+      "reason": "refine-family"
+    },
+    "14007": {
+      "icon": "14000",
+      "reason": "refine-family"
+    },
+    "14020": {
+      "icon": "14020",
+      "reason": "exact-vnum"
+    },
+    "14021": {
+      "icon": "14020",
+      "reason": "refine-family"
+    },
+    "14040": {
+      "icon": "14040",
+      "reason": "exact-vnum"
+    },
+    "14041": {
+      "icon": "14040",
+      "reason": "refine-family"
+    },
+    "14042": {
+      "icon": "14040",
+      "reason": "refine-family"
+    },
+    "14044": {
+      "icon": "14040",
+      "reason": "refine-family"
+    },
+    "14045": {
+      "icon": "14040",
+      "reason": "refine-family"
+    },
+    "14046": {
+      "icon": "14040",
+      "reason": "refine-family"
+    },
+    "14047": {
+      "icon": "14040",
+      "reason": "refine-family"
+    },
+    "14048": {
+      "icon": "14040",
+      "reason": "refine-family"
+    },
+    "14049": {
+      "icon": "14040",
+      "reason": "refine-family"
+    },
+    "14060": {
+      "icon": "14060",
+      "reason": "exact-vnum"
+    },
+    "14061": {
+      "icon": "14060",
+      "reason": "refine-family"
+    },
+    "14062": {
+      "icon": "14060",
+      "reason": "refine-family"
+    },
+    "14064": {
+      "icon": "14060",
+      "reason": "refine-family"
+    },
+    "14066": {
+      "icon": "14060",
+      "reason": "refine-family"
+    },
+    "14067": {
+      "icon": "14060",
+      "reason": "refine-family"
+    },
+    "14068": {
+      "icon": "14060",
+      "reason": "refine-family"
+    },
+    "14080": {
+      "icon": "14080",
+      "reason": "exact-vnum"
+    },
+    "14082": {
+      "icon": "14080",
+      "reason": "refine-family"
+    },
+    "14084": {
+      "icon": "14080",
+      "reason": "refine-family"
+    },
+    "14085": {
+      "icon": "14080",
+      "reason": "refine-family"
+    },
+    "14086": {
+      "icon": "14080",
+      "reason": "refine-family"
+    },
+    "14087": {
+      "icon": "14080",
+      "reason": "refine-family"
+    },
+    "14100": {
+      "icon": "14100",
+      "reason": "exact-vnum"
+    },
+    "14101": {
+      "icon": "14100",
+      "reason": "refine-family"
+    },
+    "14102": {
+      "icon": "14100",
+      "reason": "refine-family"
+    },
+    "14104": {
+      "icon": "14100",
+      "reason": "refine-family"
+    },
+    "14105": {
+      "icon": "14100",
+      "reason": "refine-family"
+    },
+    "14106": {
+      "icon": "14100",
+      "reason": "refine-family"
+    },
+    "14107": {
+      "icon": "14100",
+      "reason": "refine-family"
+    },
+    "14108": {
+      "icon": "14100",
+      "reason": "refine-family"
+    },
+    "14109": {
+      "icon": "14100",
+      "reason": "refine-family"
+    },
+    "14120": {
+      "icon": "14120",
+      "reason": "exact-vnum"
+    },
+    "14122": {
+      "icon": "14120",
+      "reason": "refine-family"
+    },
+    "14124": {
+      "icon": "14120",
+      "reason": "refine-family"
+    },
+    "14125": {
+      "icon": "14120",
+      "reason": "refine-family"
+    },
+    "14129": {
+      "icon": "14120",
+      "reason": "refine-family"
+    },
+    "14140": {
+      "icon": "14140",
+      "reason": "exact-vnum"
+    },
+    "14141": {
+      "icon": "14140",
+      "reason": "refine-family"
+    },
+    "14142": {
+      "icon": "14140",
+      "reason": "refine-family"
+    },
+    "14144": {
+      "icon": "14140",
+      "reason": "refine-family"
+    },
+    "14145": {
+      "icon": "14140",
+      "reason": "refine-family"
+    },
+    "14146": {
+      "icon": "14140",
+      "reason": "refine-family"
+    },
+    "14147": {
+      "icon": "14140",
+      "reason": "refine-family"
+    },
+    "14148": {
+      "icon": "14140",
+      "reason": "refine-family"
+    },
+    "14149": {
+      "icon": "14140",
+      "reason": "refine-family"
+    },
+    "14160": {
+      "icon": "14160",
+      "reason": "exact-vnum"
+    },
+    "14161": {
+      "icon": "14160",
+      "reason": "refine-family"
+    },
+    "14162": {
+      "icon": "14160",
+      "reason": "refine-family"
+    },
+    "14163": {
+      "icon": "14160",
+      "reason": "refine-family"
+    },
+    "14164": {
+      "icon": "14160",
+      "reason": "refine-family"
+    },
+    "14165": {
+      "icon": "14160",
+      "reason": "refine-family"
+    },
+    "14166": {
+      "icon": "14160",
+      "reason": "refine-family"
+    },
+    "14167": {
+      "icon": "14160",
+      "reason": "refine-family"
+    },
+    "14168": {
+      "icon": "14160",
+      "reason": "refine-family"
+    },
+    "14169": {
+      "icon": "14160",
+      "reason": "refine-family"
+    },
+    "14180": {
+      "icon": "14180",
+      "reason": "exact-vnum"
+    },
+    "14181": {
+      "icon": "14180",
+      "reason": "refine-family"
+    },
+    "14182": {
+      "icon": "14180",
+      "reason": "refine-family"
+    },
+    "14183": {
+      "icon": "14180",
+      "reason": "refine-family"
+    },
+    "14184": {
+      "icon": "14180",
+      "reason": "refine-family"
+    },
+    "14185": {
+      "icon": "14180",
+      "reason": "refine-family"
+    },
+    "14186": {
+      "icon": "14180",
+      "reason": "refine-family"
+    },
+    "14188": {
+      "icon": "14180",
+      "reason": "refine-family"
+    },
+    "14200": {
+      "icon": "14200",
+      "reason": "exact-vnum"
+    },
+    "14201": {
+      "icon": "14200",
+      "reason": "refine-family"
+    },
+    "14202": {
+      "icon": "14200",
+      "reason": "refine-family"
+    },
+    "14203": {
+      "icon": "14200",
+      "reason": "refine-family"
+    },
+    "14204": {
+      "icon": "14200",
+      "reason": "refine-family"
+    },
+    "14205": {
+      "icon": "14200",
+      "reason": "refine-family"
+    },
+    "14206": {
+      "icon": "14200",
+      "reason": "refine-family"
+    },
+    "14207": {
+      "icon": "14200",
+      "reason": "refine-family"
+    },
+    "14208": {
+      "icon": "14200",
+      "reason": "refine-family"
+    },
+    "15000": {
+      "icon": "15000",
+      "reason": "exact-vnum"
+    },
+    "15001": {
+      "icon": "15000",
+      "reason": "refine-family"
+    },
+    "15003": {
+      "icon": "15000",
+      "reason": "refine-family"
+    },
+    "15004": {
+      "icon": "15000",
+      "reason": "refine-family"
+    },
+    "15005": {
+      "icon": "15000",
+      "reason": "refine-family"
+    },
+    "15006": {
+      "icon": "15000",
+      "reason": "refine-family"
+    },
+    "15007": {
+      "icon": "15000",
+      "reason": "refine-family"
+    },
+    "15009": {
+      "icon": "15000",
+      "reason": "refine-family"
+    },
+    "15020": {
+      "icon": "15020",
+      "reason": "exact-vnum"
+    },
+    "15021": {
+      "icon": "15020",
+      "reason": "refine-family"
+    },
+    "15022": {
+      "icon": "15020",
+      "reason": "refine-family"
+    },
+    "15023": {
+      "icon": "15020",
+      "reason": "refine-family"
+    },
+    "15024": {
+      "icon": "15020",
+      "reason": "refine-family"
+    },
+    "15026": {
+      "icon": "15020",
+      "reason": "refine-family"
+    },
+    "15027": {
+      "icon": "15020",
+      "reason": "refine-family"
+    },
+    "15029": {
+      "icon": "15020",
+      "reason": "refine-family"
+    },
+    "15040": {
+      "icon": "15040",
+      "reason": "exact-vnum"
+    },
+    "15041": {
+      "icon": "15040",
+      "reason": "refine-family"
+    },
+    "15042": {
+      "icon": "15040",
+      "reason": "refine-family"
+    },
+    "15044": {
+      "icon": "15040",
+      "reason": "refine-family"
+    },
+    "15045": {
+      "icon": "15040",
+      "reason": "refine-family"
+    },
+    "15046": {
+      "icon": "15040",
+      "reason": "refine-family"
+    },
+    "15048": {
+      "icon": "15040",
+      "reason": "refine-family"
+    },
+    "15060": {
+      "icon": "15060",
+      "reason": "exact-vnum"
+    },
+    "15061": {
+      "icon": "15060",
+      "reason": "refine-family"
+    },
+    "15062": {
+      "icon": "15060",
+      "reason": "refine-family"
+    },
+    "15063": {
+      "icon": "15060",
+      "reason": "refine-family"
+    },
+    "15064": {
+      "icon": "15060",
+      "reason": "refine-family"
+    },
+    "15066": {
+      "icon": "15060",
+      "reason": "refine-family"
+    },
+    "15067": {
+      "icon": "15060",
+      "reason": "refine-family"
+    },
+    "15068": {
+      "icon": "15060",
+      "reason": "refine-family"
+    },
+    "15080": {
+      "icon": "15080",
+      "reason": "exact-vnum"
+    },
+    "15081": {
+      "icon": "15080",
+      "reason": "refine-family"
+    },
+    "15082": {
+      "icon": "15080",
+      "reason": "refine-family"
+    },
+    "15083": {
+      "icon": "15080",
+      "reason": "refine-family"
+    },
+    "15084": {
+      "icon": "15080",
+      "reason": "refine-family"
+    },
+    "15085": {
+      "icon": "15080",
+      "reason": "refine-family"
+    },
+    "15086": {
+      "icon": "15080",
+      "reason": "refine-family"
+    },
+    "15087": {
+      "icon": "15080",
+      "reason": "refine-family"
+    },
+    "15088": {
+      "icon": "15080",
+      "reason": "refine-family"
+    },
+    "15089": {
+      "icon": "15080",
+      "reason": "refine-family"
+    },
+    "15100": {
+      "icon": "15100",
+      "reason": "exact-vnum"
+    },
+    "15101": {
+      "icon": "15100",
+      "reason": "refine-family"
+    },
+    "15102": {
+      "icon": "15100",
+      "reason": "refine-family"
+    },
+    "15103": {
+      "icon": "15100",
+      "reason": "refine-family"
+    },
+    "15104": {
+      "icon": "15100",
+      "reason": "refine-family"
+    },
+    "15105": {
+      "icon": "15100",
+      "reason": "refine-family"
+    },
+    "15106": {
+      "icon": "15100",
+      "reason": "refine-family"
+    },
+    "15107": {
+      "icon": "15100",
+      "reason": "refine-family"
+    },
+    "15120": {
+      "icon": "15120",
+      "reason": "exact-vnum"
+    },
+    "15121": {
+      "icon": "15120",
+      "reason": "refine-family"
+    },
+    "15122": {
+      "icon": "15120",
+      "reason": "refine-family"
+    },
+    "15123": {
+      "icon": "15120",
+      "reason": "refine-family"
+    },
+    "15124": {
+      "icon": "15120",
+      "reason": "refine-family"
+    },
+    "15125": {
+      "icon": "15120",
+      "reason": "refine-family"
+    },
+    "15126": {
+      "icon": "15120",
+      "reason": "refine-family"
+    },
+    "15127": {
+      "icon": "15120",
+      "reason": "refine-family"
+    },
+    "15128": {
+      "icon": "15120",
+      "reason": "refine-family"
+    },
+    "15129": {
+      "icon": "15120",
+      "reason": "refine-family"
+    },
+    "15140": {
+      "icon": "15140",
+      "reason": "exact-vnum"
+    },
+    "15141": {
+      "icon": "15140",
+      "reason": "refine-family"
+    },
+    "15142": {
+      "icon": "15140",
+      "reason": "refine-family"
+    },
+    "15143": {
+      "icon": "15140",
+      "reason": "refine-family"
+    },
+    "15144": {
+      "icon": "15140",
+      "reason": "refine-family"
+    },
+    "15145": {
+      "icon": "15140",
+      "reason": "refine-family"
+    },
+    "15146": {
+      "icon": "15140",
+      "reason": "refine-family"
+    },
+    "15160": {
+      "icon": "15160",
+      "reason": "exact-vnum"
+    },
+    "15161": {
+      "icon": "15160",
+      "reason": "refine-family"
+    },
+    "15162": {
+      "icon": "15160",
+      "reason": "refine-family"
+    },
+    "15163": {
+      "icon": "15160",
+      "reason": "refine-family"
+    },
+    "15164": {
+      "icon": "15160",
+      "reason": "refine-family"
+    },
+    "15180": {
+      "icon": "15180",
+      "reason": "exact-vnum"
+    },
+    "15181": {
+      "icon": "15180",
+      "reason": "refine-family"
+    },
+    "15182": {
+      "icon": "15180",
+      "reason": "refine-family"
+    },
+    "15183": {
+      "icon": "15180",
+      "reason": "refine-family"
+    },
+    "15184": {
+      "icon": "15180",
+      "reason": "refine-family"
+    },
+    "15200": {
+      "icon": "15200",
+      "reason": "exact-vnum"
+    },
+    "15202": {
+      "icon": "15200",
+      "reason": "refine-family"
+    },
+    "15203": {
+      "icon": "15200",
+      "reason": "refine-family"
+    },
+    "15204": {
+      "icon": "15200",
+      "reason": "refine-family"
+    },
+    "15205": {
+      "icon": "15200",
+      "reason": "refine-family"
+    },
+    "15206": {
+      "icon": "15200",
+      "reason": "refine-family"
+    },
+    "15207": {
+      "icon": "15200",
+      "reason": "refine-family"
+    },
+    "15208": {
+      "icon": "15200",
+      "reason": "refine-family"
+    },
+    "15222": {
+      "icon": "15220",
+      "reason": "refine-family"
+    },
+    "15223": {
+      "icon": "15220",
+      "reason": "refine-family"
+    },
+    "15224": {
+      "icon": "15220",
+      "reason": "refine-family"
+    },
+    "15226": {
+      "icon": "15220",
+      "reason": "refine-family"
+    },
+    "16000": {
+      "icon": "16000",
+      "reason": "exact-vnum"
+    },
+    "16001": {
+      "icon": "16000",
+      "reason": "refine-family"
+    },
+    "16002": {
+      "icon": "16000",
+      "reason": "refine-family"
+    },
+    "16003": {
+      "icon": "16000",
+      "reason": "refine-family"
+    },
+    "16004": {
+      "icon": "16000",
+      "reason": "refine-family"
+    },
+    "16005": {
+      "icon": "16000",
+      "reason": "refine-family"
+    },
+    "16006": {
+      "icon": "16000",
+      "reason": "refine-family"
+    },
+    "16007": {
+      "icon": "16000",
+      "reason": "refine-family"
+    },
+    "16009": {
+      "icon": "16000",
+      "reason": "refine-family"
+    },
+    "16020": {
+      "icon": "16020",
+      "reason": "exact-vnum"
+    },
+    "16021": {
+      "icon": "16020",
+      "reason": "refine-family"
+    },
+    "16022": {
+      "icon": "16020",
+      "reason": "refine-family"
+    },
+    "16024": {
+      "icon": "16020",
+      "reason": "refine-family"
+    },
+    "16025": {
+      "icon": "16020",
+      "reason": "refine-family"
+    },
+    "16026": {
+      "icon": "16020",
+      "reason": "refine-family"
+    },
+    "16027": {
+      "icon": "16020",
+      "reason": "refine-family"
+    },
+    "16028": {
+      "icon": "16020",
+      "reason": "refine-family"
+    },
+    "16040": {
+      "icon": "16040",
+      "reason": "exact-vnum"
+    },
+    "16041": {
+      "icon": "16040",
+      "reason": "refine-family"
+    },
+    "16042": {
+      "icon": "16040",
+      "reason": "refine-family"
+    },
+    "16046": {
+      "icon": "16040",
+      "reason": "refine-family"
+    },
+    "16047": {
+      "icon": "16040",
+      "reason": "refine-family"
+    },
+    "16049": {
+      "icon": "16040",
+      "reason": "refine-family"
+    },
+    "16060": {
+      "icon": "16060",
+      "reason": "exact-vnum"
+    },
+    "16061": {
+      "icon": "16060",
+      "reason": "refine-family"
+    },
+    "16062": {
+      "icon": "16060",
+      "reason": "refine-family"
+    },
+    "16064": {
+      "icon": "16060",
+      "reason": "refine-family"
+    },
+    "16065": {
+      "icon": "16060",
+      "reason": "refine-family"
+    },
+    "16066": {
+      "icon": "16060",
+      "reason": "refine-family"
+    },
+    "16067": {
+      "icon": "16060",
+      "reason": "refine-family"
+    },
+    "16068": {
+      "icon": "16060",
+      "reason": "refine-family"
+    },
+    "16069": {
+      "icon": "16060",
+      "reason": "refine-family"
+    },
+    "16080": {
+      "icon": "16080",
+      "reason": "exact-vnum"
+    },
+    "16081": {
+      "icon": "16080",
+      "reason": "refine-family"
+    },
+    "16082": {
+      "icon": "16080",
+      "reason": "refine-family"
+    },
+    "16083": {
+      "icon": "16080",
+      "reason": "refine-family"
+    },
+    "16084": {
+      "icon": "16080",
+      "reason": "refine-family"
+    },
+    "16085": {
+      "icon": "16080",
+      "reason": "refine-family"
+    },
+    "16086": {
+      "icon": "16080",
+      "reason": "refine-family"
+    },
+    "16087": {
+      "icon": "16080",
+      "reason": "refine-family"
+    },
+    "16088": {
+      "icon": "16080",
+      "reason": "refine-family"
+    },
+    "16089": {
+      "icon": "16080",
+      "reason": "refine-family"
+    },
+    "16100": {
+      "icon": "16100",
+      "reason": "exact-vnum"
+    },
+    "16101": {
+      "icon": "16100",
+      "reason": "refine-family"
+    },
+    "16102": {
+      "icon": "16100",
+      "reason": "refine-family"
+    },
+    "16103": {
+      "icon": "16100",
+      "reason": "refine-family"
+    },
+    "16104": {
+      "icon": "16100",
+      "reason": "refine-family"
+    },
+    "16105": {
+      "icon": "16100",
+      "reason": "refine-family"
+    },
+    "16106": {
+      "icon": "16100",
+      "reason": "refine-family"
+    },
+    "16107": {
+      "icon": "16100",
+      "reason": "refine-family"
+    },
+    "16120": {
+      "icon": "16120",
+      "reason": "exact-vnum"
+    },
+    "16121": {
+      "icon": "16120",
+      "reason": "refine-family"
+    },
+    "16122": {
+      "icon": "16120",
+      "reason": "refine-family"
+    },
+    "16123": {
+      "icon": "16120",
+      "reason": "refine-family"
+    },
+    "16124": {
+      "icon": "16120",
+      "reason": "refine-family"
+    },
+    "16125": {
+      "icon": "16120",
+      "reason": "refine-family"
+    },
+    "16126": {
+      "icon": "16120",
+      "reason": "refine-family"
+    },
+    "16127": {
+      "icon": "16120",
+      "reason": "refine-family"
+    },
+    "16128": {
+      "icon": "16120",
+      "reason": "refine-family"
+    },
+    "16140": {
+      "icon": "16140",
+      "reason": "exact-vnum"
+    },
+    "16141": {
+      "icon": "16140",
+      "reason": "refine-family"
+    },
+    "16142": {
+      "icon": "16140",
+      "reason": "refine-family"
+    },
+    "16143": {
+      "icon": "16140",
+      "reason": "refine-family"
+    },
+    "16144": {
+      "icon": "16140",
+      "reason": "refine-family"
+    },
+    "16145": {
+      "icon": "16140",
+      "reason": "refine-family"
+    },
+    "16146": {
+      "icon": "16140",
+      "reason": "refine-family"
+    },
+    "16147": {
+      "icon": "16140",
+      "reason": "refine-family"
+    },
+    "16160": {
+      "icon": "16160",
+      "reason": "exact-vnum"
+    },
+    "16161": {
+      "icon": "16160",
+      "reason": "refine-family"
+    },
+    "16162": {
+      "icon": "16160",
+      "reason": "refine-family"
+    },
+    "16163": {
+      "icon": "16160",
+      "reason": "refine-family"
+    },
+    "16164": {
+      "icon": "16160",
+      "reason": "refine-family"
+    },
+    "16165": {
+      "icon": "16160",
+      "reason": "refine-family"
+    },
+    "16166": {
+      "icon": "16160",
+      "reason": "refine-family"
+    },
+    "16167": {
+      "icon": "16160",
+      "reason": "refine-family"
+    },
+    "16180": {
+      "icon": "16180",
+      "reason": "exact-vnum"
+    },
+    "16181": {
+      "icon": "16180",
+      "reason": "refine-family"
+    },
+    "16182": {
+      "icon": "16180",
+      "reason": "refine-family"
+    },
+    "16183": {
+      "icon": "16180",
+      "reason": "refine-family"
+    },
+    "16184": {
+      "icon": "16180",
+      "reason": "refine-family"
+    },
+    "16185": {
+      "icon": "16180",
+      "reason": "refine-family"
+    },
+    "16186": {
+      "icon": "16180",
+      "reason": "refine-family"
+    },
+    "16187": {
+      "icon": "16180",
+      "reason": "refine-family"
+    },
+    "16188": {
+      "icon": "16180",
+      "reason": "refine-family"
+    },
+    "16200": {
+      "icon": "16200",
+      "reason": "exact-vnum"
+    },
+    "16201": {
+      "icon": "16200",
+      "reason": "refine-family"
+    },
+    "16202": {
+      "icon": "16200",
+      "reason": "refine-family"
+    },
+    "16203": {
+      "icon": "16200",
+      "reason": "refine-family"
+    },
+    "16204": {
+      "icon": "16200",
+      "reason": "refine-family"
+    },
+    "16205": {
+      "icon": "16200",
+      "reason": "refine-family"
+    },
+    "16206": {
+      "icon": "16200",
+      "reason": "refine-family"
+    },
+    "16207": {
+      "icon": "16200",
+      "reason": "refine-family"
+    },
+    "16208": {
+      "icon": "16200",
+      "reason": "refine-family"
+    },
+    "17000": {
+      "icon": "17000",
+      "reason": "exact-vnum"
+    },
+    "17001": {
+      "icon": "17000",
+      "reason": "refine-family"
+    },
+    "17002": {
+      "icon": "17000",
+      "reason": "refine-family"
+    },
+    "17003": {
+      "icon": "17000",
+      "reason": "refine-family"
+    },
+    "17004": {
+      "icon": "17000",
+      "reason": "refine-family"
+    },
+    "17006": {
+      "icon": "17000",
+      "reason": "refine-family"
+    },
+    "17008": {
+      "icon": "17000",
+      "reason": "refine-family"
+    },
+    "17009": {
+      "icon": "17000",
+      "reason": "refine-family"
+    },
+    "17020": {
+      "icon": "17020",
+      "reason": "exact-vnum"
+    },
+    "17021": {
+      "icon": "17020",
+      "reason": "refine-family"
+    },
+    "17022": {
+      "icon": "17020",
+      "reason": "refine-family"
+    },
+    "17023": {
+      "icon": "17020",
+      "reason": "refine-family"
+    },
+    "17024": {
+      "icon": "17020",
+      "reason": "refine-family"
+    },
+    "17025": {
+      "icon": "17020",
+      "reason": "refine-family"
+    },
+    "17026": {
+      "icon": "17020",
+      "reason": "refine-family"
+    },
+    "17027": {
+      "icon": "17020",
+      "reason": "refine-family"
+    },
+    "17028": {
+      "icon": "17020",
+      "reason": "refine-family"
+    },
+    "17029": {
+      "icon": "17020",
+      "reason": "refine-family"
+    },
+    "17040": {
+      "icon": "17040",
+      "reason": "exact-vnum"
+    },
+    "17041": {
+      "icon": "17040",
+      "reason": "refine-family"
+    },
+    "17042": {
+      "icon": "17040",
+      "reason": "refine-family"
+    },
+    "17044": {
+      "icon": "17040",
+      "reason": "refine-family"
+    },
+    "17045": {
+      "icon": "17040",
+      "reason": "refine-family"
+    },
+    "17046": {
+      "icon": "17040",
+      "reason": "refine-family"
+    },
+    "17048": {
+      "icon": "17040",
+      "reason": "refine-family"
+    },
+    "17049": {
+      "icon": "17040",
+      "reason": "refine-family"
+    },
+    "17060": {
+      "icon": "17060",
+      "reason": "exact-vnum"
+    },
+    "17061": {
+      "icon": "17060",
+      "reason": "refine-family"
+    },
+    "17062": {
+      "icon": "17060",
+      "reason": "refine-family"
+    },
+    "17064": {
+      "icon": "17060",
+      "reason": "refine-family"
+    },
+    "17065": {
+      "icon": "17060",
+      "reason": "refine-family"
+    },
+    "17066": {
+      "icon": "17060",
+      "reason": "refine-family"
+    },
+    "17067": {
+      "icon": "17060",
+      "reason": "refine-family"
+    },
+    "17068": {
+      "icon": "17060",
+      "reason": "refine-family"
+    },
+    "17069": {
+      "icon": "17060",
+      "reason": "refine-family"
+    },
+    "17080": {
+      "icon": "17080",
+      "reason": "exact-vnum"
+    },
+    "17081": {
+      "icon": "17080",
+      "reason": "refine-family"
+    },
+    "17082": {
+      "icon": "17080",
+      "reason": "refine-family"
+    },
+    "17083": {
+      "icon": "17080",
+      "reason": "refine-family"
+    },
+    "17084": {
+      "icon": "17080",
+      "reason": "refine-family"
+    },
+    "17086": {
+      "icon": "17080",
+      "reason": "refine-family"
+    },
+    "17087": {
+      "icon": "17080",
+      "reason": "refine-family"
+    },
+    "17089": {
+      "icon": "17080",
+      "reason": "refine-family"
+    },
+    "17100": {
+      "icon": "17100",
+      "reason": "exact-vnum"
+    },
+    "17101": {
+      "icon": "17100",
+      "reason": "refine-family"
+    },
+    "17102": {
+      "icon": "17100",
+      "reason": "refine-family"
+    },
+    "17103": {
+      "icon": "17100",
+      "reason": "refine-family"
+    },
+    "17104": {
+      "icon": "17100",
+      "reason": "refine-family"
+    },
+    "17105": {
+      "icon": "17100",
+      "reason": "refine-family"
+    },
+    "17106": {
+      "icon": "17100",
+      "reason": "refine-family"
+    },
+    "17107": {
+      "icon": "17100",
+      "reason": "refine-family"
+    },
+    "17108": {
+      "icon": "17100",
+      "reason": "refine-family"
+    },
+    "17109": {
+      "icon": "17100",
+      "reason": "refine-family"
+    },
+    "17120": {
+      "icon": "17120",
+      "reason": "exact-vnum"
+    },
+    "17121": {
+      "icon": "17120",
+      "reason": "refine-family"
+    },
+    "17122": {
+      "icon": "17120",
+      "reason": "refine-family"
+    },
+    "17123": {
+      "icon": "17120",
+      "reason": "refine-family"
+    },
+    "17124": {
+      "icon": "17120",
+      "reason": "refine-family"
+    },
+    "17125": {
+      "icon": "17120",
+      "reason": "refine-family"
+    },
+    "17126": {
+      "icon": "17120",
+      "reason": "refine-family"
+    },
+    "17127": {
+      "icon": "17120",
+      "reason": "refine-family"
+    },
+    "17129": {
+      "icon": "17120",
+      "reason": "refine-family"
+    },
+    "17140": {
+      "icon": "17140",
+      "reason": "exact-vnum"
+    },
+    "17141": {
+      "icon": "17140",
+      "reason": "refine-family"
+    },
+    "17142": {
+      "icon": "17140",
+      "reason": "refine-family"
+    },
+    "17143": {
+      "icon": "17140",
+      "reason": "refine-family"
+    },
+    "17144": {
+      "icon": "17140",
+      "reason": "refine-family"
+    },
+    "17145": {
+      "icon": "17140",
+      "reason": "refine-family"
+    },
+    "17147": {
+      "icon": "17140",
+      "reason": "refine-family"
+    },
+    "17148": {
+      "icon": "17140",
+      "reason": "refine-family"
+    },
+    "17149": {
+      "icon": "17140",
+      "reason": "refine-family"
+    },
+    "17160": {
+      "icon": "17160",
+      "reason": "exact-vnum"
+    },
+    "17161": {
+      "icon": "17160",
+      "reason": "refine-family"
+    },
+    "17162": {
+      "icon": "17160",
+      "reason": "refine-family"
+    },
+    "17163": {
+      "icon": "17160",
+      "reason": "refine-family"
+    },
+    "17164": {
+      "icon": "17160",
+      "reason": "refine-family"
+    },
+    "17165": {
+      "icon": "17160",
+      "reason": "refine-family"
+    },
+    "17166": {
+      "icon": "17160",
+      "reason": "refine-family"
+    },
+    "17168": {
+      "icon": "17160",
+      "reason": "refine-family"
+    },
+    "17180": {
+      "icon": "17180",
+      "reason": "exact-vnum"
+    },
+    "17181": {
+      "icon": "17180",
+      "reason": "refine-family"
+    },
+    "17182": {
+      "icon": "17180",
+      "reason": "refine-family"
+    },
+    "17183": {
+      "icon": "17180",
+      "reason": "refine-family"
+    },
+    "17184": {
+      "icon": "17180",
+      "reason": "refine-family"
+    },
+    "17185": {
+      "icon": "17180",
+      "reason": "refine-family"
+    },
+    "17186": {
+      "icon": "17180",
+      "reason": "refine-family"
+    },
+    "17187": {
+      "icon": "17180",
+      "reason": "refine-family"
+    },
+    "17188": {
+      "icon": "17180",
+      "reason": "refine-family"
+    },
+    "17200": {
+      "icon": "17200",
+      "reason": "exact-vnum"
+    },
+    "17201": {
+      "icon": "17200",
+      "reason": "refine-family"
+    },
+    "17202": {
+      "icon": "17200",
+      "reason": "refine-family"
+    },
+    "17203": {
+      "icon": "17200",
+      "reason": "refine-family"
+    },
+    "17204": {
+      "icon": "17200",
+      "reason": "refine-family"
+    },
+    "17205": {
+      "icon": "17200",
+      "reason": "refine-family"
+    },
+    "17206": {
+      "icon": "17200",
+      "reason": "refine-family"
+    },
+    "17207": {
+      "icon": "17200",
+      "reason": "refine-family"
+    },
+    "17208": {
+      "icon": "17200",
+      "reason": "refine-family"
+    },
+    "22000": {
+      "icon": "22000",
+      "reason": "exact-vnum"
+    },
+    "22010": {
+      "icon": "22000",
+      "reason": "item-family"
+    },
+    "25040": {
+      "icon": "25040",
+      "reason": "exact-vnum"
+    },
+    "25100": {
+      "icon": "25000",
+      "reason": "search-name"
+    },
+    "27001": {
+      "icon": "27001",
+      "reason": "exact-vnum"
+    },
+    "27002": {
+      "icon": "27002",
+      "reason": "exact-vnum"
+    },
+    "27003": {
+      "icon": "27003",
+      "reason": "exact-vnum"
+    },
+    "27004": {
+      "icon": "27004",
+      "reason": "exact-vnum"
+    },
+    "27005": {
+      "icon": "27005",
+      "reason": "exact-vnum"
+    },
+    "27006": {
+      "icon": "27006",
+      "reason": "exact-vnum"
+    },
+    "27101": {
+      "icon": "27101",
+      "reason": "exact-vnum"
+    },
+    "27102": {
+      "icon": "27102",
+      "reason": "exact-vnum"
+    },
+    "27104": {
+      "icon": "27104",
+      "reason": "exact-vnum"
+    },
+    "27105": {
+      "icon": "27105",
+      "reason": "exact-vnum"
+    },
+    "27110": {
+      "icon": "27100",
+      "reason": "item-family"
+    },
+    "27111": {
+      "icon": "27100",
+      "reason": "item-family"
+    },
+    "27112": {
+      "icon": "27100",
+      "reason": "item-family"
+    },
+    "27114": {
+      "icon": "27100",
+      "reason": "item-family"
+    },
+    "27400": {
+      "icon": "27400",
+      "reason": "exact-vnum"
+    },
+    "27410": {
+      "icon": "27400",
+      "reason": "item-family"
+    },
+    "27420": {
+      "icon": "27400",
+      "reason": "item-family"
+    },
+    "27430": {
+      "icon": "27400",
+      "reason": "item-family"
+    },
+    "27440": {
+      "icon": "27400",
+      "reason": "item-family"
+    },
+    "27460": {
+      "icon": "27400",
+      "reason": "item-family"
+    },
+    "27799": {
+      "icon": "27799",
+      "reason": "exact-vnum"
+    },
+    "27801": {
+      "icon": "27801",
+      "reason": "exact-vnum"
+    },
+    "27802": {
+      "icon": "27802",
+      "reason": "exact-vnum"
+    },
+    "27803": {
+      "icon": "27803",
+      "reason": "exact-vnum"
+    },
+    "27804": {
+      "icon": "27804",
+      "reason": "exact-vnum"
+    },
+    "27805": {
+      "icon": "27805",
+      "reason": "exact-vnum"
+    },
+    "27806": {
+      "icon": "27806",
+      "reason": "exact-vnum"
+    },
+    "27807": {
+      "icon": "27807",
+      "reason": "exact-vnum"
+    },
+    "27808": {
+      "icon": "27808",
+      "reason": "exact-vnum"
+    },
+    "27809": {
+      "icon": "27809",
+      "reason": "exact-vnum"
+    },
+    "27810": {
+      "icon": "27810",
+      "reason": "exact-vnum"
+    },
+    "27811": {
+      "icon": "27811",
+      "reason": "exact-vnum"
+    },
+    "27812": {
+      "icon": "27812",
+      "reason": "exact-vnum"
+    },
+    "27813": {
+      "icon": "27813",
+      "reason": "exact-vnum"
+    },
+    "27814": {
+      "icon": "27814",
+      "reason": "exact-vnum"
+    },
+    "27815": {
+      "icon": "27815",
+      "reason": "exact-vnum"
+    },
+    "27816": {
+      "icon": "27816",
+      "reason": "exact-vnum"
+    },
+    "27817": {
+      "icon": "27817",
+      "reason": "exact-vnum"
+    },
+    "27818": {
+      "icon": "27818",
+      "reason": "exact-vnum"
+    },
+    "27819": {
+      "icon": "27819",
+      "reason": "exact-vnum"
+    },
+    "27820": {
+      "icon": "27820",
+      "reason": "exact-vnum"
+    },
+    "27821": {
+      "icon": "27821",
+      "reason": "exact-vnum"
+    },
+    "27822": {
+      "icon": "27822",
+      "reason": "exact-vnum"
+    },
+    "27823": {
+      "icon": "27823",
+      "reason": "exact-vnum"
+    },
+    "27824": {
+      "icon": "27824",
+      "reason": "exact-vnum"
+    },
+    "27830": {
+      "icon": "27830",
+      "reason": "exact-vnum"
+    },
+    "27833": {
+      "icon": "27833",
+      "reason": "exact-vnum"
+    },
+    "27834": {
+      "icon": "27834",
+      "reason": "exact-vnum"
+    },
+    "27835": {
+      "icon": "27835",
+      "reason": "exact-vnum"
+    },
+    "27836": {
+      "icon": "27836",
+      "reason": "exact-vnum"
+    },
+    "27837": {
+      "icon": "27837",
+      "reason": "exact-vnum"
+    },
+    "27838": {
+      "icon": "27838",
+      "reason": "exact-vnum"
+    },
+    "27839": {
+      "icon": "27839",
+      "reason": "exact-vnum"
+    },
+    "27840": {
+      "icon": "27840",
+      "reason": "exact-vnum"
+    },
+    "27841": {
+      "icon": "27841",
+      "reason": "exact-vnum"
+    },
+    "27842": {
+      "icon": "27842",
+      "reason": "exact-vnum"
+    },
+    "27843": {
+      "icon": "27843",
+      "reason": "exact-vnum"
+    },
+    "27844": {
+      "icon": "27844",
+      "reason": "exact-vnum"
+    },
+    "27845": {
+      "icon": "27845",
+      "reason": "exact-vnum"
+    },
+    "27846": {
+      "icon": "27846",
+      "reason": "exact-vnum"
+    },
+    "27847": {
+      "icon": "27847",
+      "reason": "exact-vnum"
+    },
+    "27848": {
+      "icon": "27848",
+      "reason": "exact-vnum"
+    },
+    "27849": {
+      "icon": "27849",
+      "reason": "exact-vnum"
+    },
+    "27850": {
+      "icon": "27850",
+      "reason": "exact-vnum"
+    },
+    "27851": {
+      "icon": "27851",
+      "reason": "exact-vnum"
+    },
+    "27852": {
+      "icon": "27852",
+      "reason": "exact-vnum"
+    },
+    "27853": {
+      "icon": "27853",
+      "reason": "exact-vnum"
+    },
+    "27854": {
+      "icon": "27854",
+      "reason": "exact-vnum"
+    },
+    "27860": {
+      "icon": "27860",
+      "reason": "exact-vnum"
+    },
+    "27861": {
+      "icon": "27861",
+      "reason": "exact-vnum"
+    },
+    "27862": {
+      "icon": "27862",
+      "reason": "exact-vnum"
+    },
+    "27863": {
+      "icon": "27863",
+      "reason": "exact-vnum"
+    },
+    "27864": {
+      "icon": "27864",
+      "reason": "exact-vnum"
+    },
+    "27865": {
+      "icon": "27865",
+      "reason": "exact-vnum"
+    },
+    "27866": {
+      "icon": "27866",
+      "reason": "exact-vnum"
+    },
+    "27867": {
+      "icon": "27867",
+      "reason": "exact-vnum"
+    },
+    "27868": {
+      "icon": "27868",
+      "reason": "exact-vnum"
+    },
+    "27869": {
+      "icon": "27869",
+      "reason": "exact-vnum"
+    },
+    "27870": {
+      "icon": "27870",
+      "reason": "exact-vnum"
+    },
+    "27871": {
+      "icon": "27871",
+      "reason": "exact-vnum"
+    },
+    "27872": {
+      "icon": "27872",
+      "reason": "exact-vnum"
+    },
+    "27873": {
+      "icon": "27873",
+      "reason": "exact-vnum"
+    },
+    "27874": {
+      "icon": "27874",
+      "reason": "exact-vnum"
+    },
+    "27875": {
+      "icon": "27875",
+      "reason": "exact-vnum"
+    },
+    "27876": {
+      "icon": "27876",
+      "reason": "exact-vnum"
+    },
+    "27877": {
+      "icon": "27877",
+      "reason": "exact-vnum"
+    },
+    "27878": {
+      "icon": "27878",
+      "reason": "exact-vnum"
+    },
+    "27879": {
+      "icon": "27879",
+      "reason": "exact-vnum"
+    },
+    "27880": {
+      "icon": "27880",
+      "reason": "exact-vnum"
+    },
+    "27881": {
+      "icon": "27881",
+      "reason": "exact-vnum"
+    },
+    "27882": {
+      "icon": "27882",
+      "reason": "exact-vnum"
+    },
+    "27883": {
+      "icon": "27883",
+      "reason": "exact-vnum"
+    },
+    "27884": {
+      "icon": "27884",
+      "reason": "exact-vnum"
+    },
+    "27890": {
+      "icon": "27890",
+      "reason": "exact-vnum"
+    },
+    "27891": {
+      "icon": "27891",
+      "reason": "exact-vnum"
+    },
+    "27892": {
+      "icon": "27892",
+      "reason": "exact-vnum"
+    },
+    "27987": {
+      "icon": "27987",
+      "reason": "exact-vnum"
+    },
+    "27988": {
+      "icon": "27988",
+      "reason": "exact-vnum"
+    },
+    "27990": {
+      "icon": "27990",
+      "reason": "exact-vnum"
+    },
+    "27992": {
+      "icon": "27992",
+      "reason": "exact-vnum"
+    },
+    "27993": {
+      "icon": "27993",
+      "reason": "exact-vnum"
+    },
+    "27994": {
+      "icon": "27994",
+      "reason": "exact-vnum"
+    },
+    "28030": {
+      "icon": "28000",
+      "reason": "item-family"
+    },
+    "28031": {
+      "icon": "28000",
+      "reason": "item-family"
+    },
+    "28032": {
+      "icon": "28000",
+      "reason": "item-family"
+    },
+    "28033": {
+      "icon": "28000",
+      "reason": "item-family"
+    },
+    "28034": {
+      "icon": "28000",
+      "reason": "item-family"
+    },
+    "28035": {
+      "icon": "28000",
+      "reason": "item-family"
+    },
+    "28036": {
+      "icon": "28000",
+      "reason": "item-family"
+    },
+    "28037": {
+      "icon": "28000",
+      "reason": "item-family"
+    },
+    "28038": {
+      "icon": "28000",
+      "reason": "item-family"
+    },
+    "28039": {
+      "icon": "28000",
+      "reason": "item-family"
+    },
+    "28040": {
+      "icon": "28000",
+      "reason": "item-family"
+    },
+    "28041": {
+      "icon": "28000",
+      "reason": "item-family"
+    },
+    "28042": {
+      "icon": "28000",
+      "reason": "item-family"
+    },
+    "28043": {
+      "icon": "28000",
+      "reason": "item-family"
+    },
+    "28130": {
+      "icon": "28000",
+      "reason": "search-name"
+    },
+    "28131": {
+      "icon": "28001",
+      "reason": "search-name"
+    },
+    "28132": {
+      "icon": "28002",
+      "reason": "search-name"
+    },
+    "28133": {
+      "icon": "28003",
+      "reason": "search-name"
+    },
+    "28134": {
+      "icon": "28000",
+      "reason": "search-name"
+    },
+    "28135": {
+      "icon": "28000",
+      "reason": "search-name"
+    },
+    "28136": {
+      "icon": "28000",
+      "reason": "search-name"
+    },
+    "28137": {
+      "icon": "28007",
+      "reason": "search-name"
+    },
+    "28138": {
+      "icon": "28008",
+      "reason": "search-name"
+    },
+    "28139": {
+      "icon": "28009",
+      "reason": "search-name"
+    },
+    "28140": {
+      "icon": "28010",
+      "reason": "search-name"
+    },
+    "28141": {
+      "icon": "28011",
+      "reason": "search-name"
+    },
+    "28142": {
+      "icon": "28012",
+      "reason": "search-name"
+    },
+    "28143": {
+      "icon": "28013",
+      "reason": "search-name"
+    },
+    "28230": {
+      "icon": "28000",
+      "reason": "search-name"
+    },
+    "28231": {
+      "icon": "28001",
+      "reason": "search-name"
+    },
+    "28232": {
+      "icon": "28002",
+      "reason": "search-name"
+    },
+    "28233": {
+      "icon": "28003",
+      "reason": "search-name"
+    },
+    "28234": {
+      "icon": "28000",
+      "reason": "search-name"
+    },
+    "28235": {
+      "icon": "28000",
+      "reason": "search-name"
+    },
+    "28236": {
+      "icon": "28000",
+      "reason": "search-name"
+    },
+    "28237": {
+      "icon": "28007",
+      "reason": "search-name"
+    },
+    "28238": {
+      "icon": "28008",
+      "reason": "search-name"
+    },
+    "28239": {
+      "icon": "28009",
+      "reason": "search-name"
+    },
+    "28240": {
+      "icon": "28010",
+      "reason": "search-name"
+    },
+    "28241": {
+      "icon": "28011",
+      "reason": "search-name"
+    },
+    "28242": {
+      "icon": "28012",
+      "reason": "search-name"
+    },
+    "28243": {
+      "icon": "28013",
+      "reason": "search-name"
+    },
+    "28330": {
+      "icon": "28000",
+      "reason": "search-name"
+    },
+    "28331": {
+      "icon": "28001",
+      "reason": "search-name"
+    },
+    "28332": {
+      "icon": "28002",
+      "reason": "search-name"
+    },
+    "28333": {
+      "icon": "28003",
+      "reason": "search-name"
+    },
+    "28334": {
+      "icon": "28000",
+      "reason": "search-name"
+    },
+    "28335": {
+      "icon": "28000",
+      "reason": "search-name"
+    },
+    "28336": {
+      "icon": "28000",
+      "reason": "search-name"
+    },
+    "28337": {
+      "icon": "28007",
+      "reason": "search-name"
+    },
+    "28338": {
+      "icon": "28008",
+      "reason": "search-name"
+    },
+    "28339": {
+      "icon": "28009",
+      "reason": "search-name"
+    },
+    "28340": {
+      "icon": "28010",
+      "reason": "search-name"
+    },
+    "28341": {
+      "icon": "28011",
+      "reason": "search-name"
+    },
+    "28342": {
+      "icon": "28012",
+      "reason": "search-name"
+    },
+    "28343": {
+      "icon": "28013",
+      "reason": "search-name"
+    },
+    "28430": {
+      "icon": "28000",
+      "reason": "search-name"
+    },
+    "28431": {
+      "icon": "28001",
+      "reason": "search-name"
+    },
+    "28432": {
+      "icon": "28002",
+      "reason": "search-name"
+    },
+    "28433": {
+      "icon": "28003",
+      "reason": "search-name"
+    },
+    "28434": {
+      "icon": "28000",
+      "reason": "search-name"
+    },
+    "28435": {
+      "icon": "28000",
+      "reason": "search-name"
+    },
+    "28436": {
+      "icon": "28000",
+      "reason": "search-name"
+    },
+    "28437": {
+      "icon": "28007",
+      "reason": "search-name"
+    },
+    "28438": {
+      "icon": "28008",
+      "reason": "search-name"
+    },
+    "28439": {
+      "icon": "28009",
+      "reason": "search-name"
+    },
+    "28440": {
+      "icon": "28010",
+      "reason": "search-name"
+    },
+    "28441": {
+      "icon": "28011",
+      "reason": "search-name"
+    },
+    "28442": {
+      "icon": "28012",
+      "reason": "search-name"
+    },
+    "28443": {
+      "icon": "28013",
+      "reason": "search-name"
+    },
+    "29101": {
+      "icon": "29101",
+      "reason": "exact-vnum"
+    },
+    "29102": {
+      "icon": "29101",
+      "reason": "search-name"
+    },
+    "29103": {
+      "icon": "29101",
+      "reason": "search-name"
+    },
+    "29105": {
+      "icon": "29101",
+      "reason": "search-name"
+    },
+    "29106": {
+      "icon": "29101",
+      "reason": "search-name"
+    },
+    "30003": {
+      "icon": "30003",
+      "reason": "exact-vnum"
+    },
+    "30004": {
+      "icon": "30004",
+      "reason": "exact-vnum"
+    },
+    "30005": {
+      "icon": "30005",
+      "reason": "exact-vnum"
+    },
+    "30006": {
+      "icon": "30006",
+      "reason": "exact-vnum"
+    },
+    "30007": {
+      "icon": "30007",
+      "reason": "exact-vnum"
+    },
+    "30008": {
+      "icon": "30008",
+      "reason": "exact-vnum"
+    },
+    "30009": {
+      "icon": "30009",
+      "reason": "exact-vnum"
+    },
+    "30010": {
+      "icon": "30010",
+      "reason": "exact-vnum"
+    },
+    "30011": {
+      "icon": "30011",
+      "reason": "exact-vnum"
+    },
+    "30014": {
+      "icon": "30014",
+      "reason": "exact-vnum"
+    },
+    "30015": {
+      "icon": "30015",
+      "reason": "exact-vnum"
+    },
+    "30016": {
+      "icon": "30016",
+      "reason": "exact-vnum"
+    },
+    "30017": {
+      "icon": "30017",
+      "reason": "exact-vnum"
+    },
+    "30018": {
+      "icon": "30018",
+      "reason": "exact-vnum"
+    },
+    "30019": {
+      "icon": "30019",
+      "reason": "exact-vnum"
+    },
+    "30020": {
+      "icon": "30020",
+      "reason": "exact-vnum"
+    },
+    "30021": {
+      "icon": "30021",
+      "reason": "exact-vnum"
+    },
+    "30022": {
+      "icon": "30022",
+      "reason": "exact-vnum"
+    },
+    "30023": {
+      "icon": "30023",
+      "reason": "exact-vnum"
+    },
+    "30025": {
+      "icon": "30025",
+      "reason": "exact-vnum"
+    },
+    "30027": {
+      "icon": "30027",
+      "reason": "exact-vnum"
+    },
+    "30028": {
+      "icon": "30028",
+      "reason": "exact-vnum"
+    },
+    "30029": {
+      "icon": "30029",
+      "reason": "exact-vnum"
+    },
+    "30030": {
+      "icon": "30030",
+      "reason": "exact-vnum"
+    },
+    "30031": {
+      "icon": "30031",
+      "reason": "exact-vnum"
+    },
+    "30032": {
+      "icon": "30032",
+      "reason": "exact-vnum"
+    },
+    "30033": {
+      "icon": "30033",
+      "reason": "exact-vnum"
+    },
+    "30034": {
+      "icon": "30034",
+      "reason": "exact-vnum"
+    },
+    "30035": {
+      "icon": "30035",
+      "reason": "exact-vnum"
+    },
+    "30037": {
+      "icon": "30037",
+      "reason": "exact-vnum"
+    },
+    "30038": {
+      "icon": "30038",
+      "reason": "exact-vnum"
+    },
+    "30039": {
+      "icon": "30039",
+      "reason": "exact-vnum"
+    },
+    "30040": {
+      "icon": "30040",
+      "reason": "exact-vnum"
+    },
+    "30041": {
+      "icon": "30041",
+      "reason": "exact-vnum"
+    },
+    "30042": {
+      "icon": "30042",
+      "reason": "exact-vnum"
+    },
+    "30045": {
+      "icon": "30045",
+      "reason": "exact-vnum"
+    },
+    "30046": {
+      "icon": "30046",
+      "reason": "exact-vnum"
+    },
+    "30047": {
+      "icon": "30047",
+      "reason": "exact-vnum"
+    },
+    "30048": {
+      "icon": "30048",
+      "reason": "exact-vnum"
+    },
+    "30049": {
+      "icon": "30049",
+      "reason": "exact-vnum"
+    },
+    "30050": {
+      "icon": "30050",
+      "reason": "exact-vnum"
+    },
+    "30051": {
+      "icon": "30051",
+      "reason": "exact-vnum"
+    },
+    "30052": {
+      "icon": "30052",
+      "reason": "exact-vnum"
+    },
+    "30053": {
+      "icon": "30053",
+      "reason": "exact-vnum"
+    },
+    "30055": {
+      "icon": "30055",
+      "reason": "exact-vnum"
+    },
+    "30056": {
+      "icon": "30056",
+      "reason": "exact-vnum"
+    },
+    "30057": {
+      "icon": "30057",
+      "reason": "exact-vnum"
+    },
+    "30058": {
+      "icon": "30058",
+      "reason": "exact-vnum"
+    },
+    "30059": {
+      "icon": "30059",
+      "reason": "exact-vnum"
+    },
+    "30060": {
+      "icon": "30060",
+      "reason": "exact-vnum"
+    },
+    "30061": {
+      "icon": "30061",
+      "reason": "exact-vnum"
+    },
+    "30067": {
+      "icon": "30067",
+      "reason": "exact-vnum"
+    },
+    "30069": {
+      "icon": "30060",
+      "reason": "refine-family"
+    },
+    "30070": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30071": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30072": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30073": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30074": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30075": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30076": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30077": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30078": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30079": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30080": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30081": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30082": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30083": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30085": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30086": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30087": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30088": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30089": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30090": {
+      "icon": "30000",
+      "reason": "item-family"
+    },
+    "30091": {
+      "icon": "30091",
+      "reason": "exact-vnum"
+    },
+    "30092": {
+      "icon": "30092",
+      "reason": "exact-vnum"
+    },
+    "30102": {
+      "icon": "30102",
+      "reason": "exact-vnum"
+    },
+    "30116": {
+      "icon": "30116",
+      "reason": "exact-vnum"
+    },
+    "30131": {
+      "icon": "30131",
+      "reason": "exact-vnum"
+    },
+    "30132": {
+      "icon": "30132",
+      "reason": "exact-vnum"
+    },
+    "30137": {
+      "icon": "30137",
+      "reason": "exact-vnum"
+    },
+    "30138": {
+      "icon": "30138",
+      "reason": "exact-vnum"
+    },
+    "30139": {
+      "icon": "30139",
+      "reason": "exact-vnum"
+    },
+    "30140": {
+      "icon": "30140",
+      "reason": "exact-vnum"
+    },
+    "30146": {
+      "icon": "30146",
+      "reason": "exact-vnum"
+    },
+    "30150": {
+      "icon": "30150",
+      "reason": "exact-vnum"
+    },
+    "30152": {
+      "icon": "30152",
+      "reason": "exact-vnum"
+    },
+    "30157": {
+      "icon": "30157",
+      "reason": "exact-vnum"
+    },
+    "30159": {
+      "icon": "30159",
+      "reason": "exact-vnum"
+    },
+    "30161": {
+      "icon": "30160",
+      "reason": "refine-family"
+    },
+    "30162": {
+      "icon": "30160",
+      "reason": "refine-family"
+    },
+    "30164": {
+      "icon": "30160",
+      "reason": "refine-family"
+    },
+    "30165": {
+      "icon": "30165",
+      "reason": "exact-vnum"
+    },
+    "30166": {
+      "icon": "30166",
+      "reason": "exact-vnum"
+    },
+    "30167": {
+      "icon": "30167",
+      "reason": "exact-vnum"
+    },
+    "30168": {
+      "icon": "30168",
+      "reason": "exact-vnum"
+    },
+    "30193": {
+      "icon": "30193",
+      "reason": "exact-vnum"
+    },
+    "30220": {
+      "icon": "30220",
+      "reason": "exact-vnum"
+    },
+    "30221": {
+      "icon": "30221",
+      "reason": "exact-vnum"
+    },
+    "30222": {
+      "icon": "30222",
+      "reason": "exact-vnum"
+    },
+    "30223": {
+      "icon": "30223",
+      "reason": "exact-vnum"
+    },
+    "30224": {
+      "icon": "30224",
+      "reason": "exact-vnum"
+    },
+    "30225": {
+      "icon": "30225",
+      "reason": "exact-vnum"
+    },
+    "30429": {
+      "icon": "25102",
+      "reason": "search-name"
+    },
+    "30526": {
+      "icon": "30526",
+      "reason": "exact-vnum"
+    },
+    "30527": {
+      "icon": "30527",
+      "reason": "exact-vnum"
+    },
+    "30623": {
+      "icon": "30623",
+      "reason": "exact-vnum"
+    },
+    "31012": {
+      "icon": "31012",
+      "reason": "exact-vnum"
+    },
+    "50002": {
+      "icon": "50002",
+      "reason": "exact-vnum"
+    },
+    "50005": {
+      "icon": "70027",
+      "reason": "search-name"
+    },
+    "50006": {
+      "icon": "50006",
+      "reason": "exact-vnum"
+    },
+    "50007": {
+      "icon": "50007",
+      "reason": "exact-vnum"
+    },
+    "50008": {
+      "icon": "50008",
+      "reason": "exact-vnum"
+    },
+    "50009": {
+      "icon": "50009",
+      "reason": "exact-vnum"
+    },
+    "50012": {
+      "icon": "50010",
+      "reason": "refine-family"
+    },
+    "50013": {
+      "icon": "50010",
+      "reason": "refine-family"
+    },
+    "50050": {
+      "icon": "50050",
+      "reason": "exact-vnum"
+    },
+    "50054": {
+      "icon": "50054",
+      "reason": "exact-vnum"
+    },
+    "50055": {
+      "icon": "50055",
+      "reason": "exact-vnum"
+    },
+    "50056": {
+      "icon": "50056",
+      "reason": "exact-vnum"
+    },
+    "50057": {
+      "icon": "50050",
+      "reason": "refine-family"
+    },
+    "50058": {
+      "icon": "50058",
+      "reason": "exact-vnum"
+    },
+    "50059": {
+      "icon": "50059",
+      "reason": "exact-vnum"
+    },
+    "50061": {
+      "icon": "50061",
+      "reason": "exact-vnum"
+    },
+    "50070": {
+      "icon": "50034",
+      "reason": "search-name"
+    },
+    "50071": {
+      "icon": "50034",
+      "reason": "search-name"
+    },
+    "50076": {
+      "icon": "50011",
+      "reason": "search-name"
+    },
+    "50078": {
+      "icon": "50011",
+      "reason": "search-name"
+    },
+    "50079": {
+      "icon": "50011",
+      "reason": "search-name"
+    },
+    "50081": {
+      "icon": "50011",
+      "reason": "search-name"
+    },
+    "50082": {
+      "icon": "50011",
+      "reason": "search-name"
+    },
+    "50083": {
+      "icon": "50083",
+      "reason": "exact-vnum"
+    },
+    "50097": {
+      "icon": "50097",
+      "reason": "exact-vnum"
+    },
+    "50201": {
+      "icon": "50201",
+      "reason": "exact-vnum"
+    },
+    "50300": {
+      "icon": "book_01",
+      "reason": "search-name"
+    },
+    "50301": {
+      "icon": "book_11",
+      "reason": "search-name"
+    },
+    "50302": {
+      "icon": "book_12",
+      "reason": "search-name"
+    },
+    "50303": {
+      "icon": "book_13",
+      "reason": "search-name"
+    },
+    "50304": {
+      "icon": "book_14",
+      "reason": "search-name"
+    },
+    "50305": {
+      "icon": "book_15",
+      "reason": "search-name"
+    },
+    "50306": {
+      "icon": "book_16",
+      "reason": "search-name"
+    },
+    "50307": {
+      "icon": "50307",
+      "reason": "exact-vnum"
+    },
+    "50308": {
+      "icon": "50308",
+      "reason": "exact-vnum"
+    },
+    "50309": {
+      "icon": "50309",
+      "reason": "exact-vnum"
+    },
+    "50310": {
+      "icon": "50310",
+      "reason": "exact-vnum"
+    },
+    "50314": {
+      "icon": "50310",
+      "reason": "refine-family"
+    },
+    "50315": {
+      "icon": "50310",
+      "reason": "refine-family"
+    },
+    "50316": {
+      "icon": "50310",
+      "reason": "refine-family"
+    },
+    "50401": {
+      "icon": "50061",
+      "reason": "search-name"
+    },
+    "50404": {
+      "icon": "50061",
+      "reason": "search-name"
+    },
+    "50417": {
+      "icon": "50061",
+      "reason": "search-name"
+    },
+    "50418": {
+      "icon": "50061",
+      "reason": "search-name"
+    },
+    "50419": {
+      "icon": "50061",
+      "reason": "search-name"
+    },
+    "50431": {
+      "icon": "50061",
+      "reason": "search-name"
+    },
+    "50432": {
+      "icon": "50061",
+      "reason": "search-name"
+    },
+    "50434": {
+      "icon": "50061",
+      "reason": "search-name"
+    },
+    "50446": {
+      "icon": "50061",
+      "reason": "search-name"
+    },
+    "50448": {
+      "icon": "50061",
+      "reason": "search-name"
+    },
+    "50461": {
+      "icon": "50061",
+      "reason": "search-name"
+    },
+    "50463": {
+      "icon": "50061",
+      "reason": "search-name"
+    },
+    "50464": {
+      "icon": "50061",
+      "reason": "search-name"
+    },
+    "50465": {
+      "icon": "50061",
+      "reason": "search-name"
+    },
+    "50476": {
+      "icon": "50061",
+      "reason": "search-name"
+    },
+    "50480": {
+      "icon": "50061",
+      "reason": "search-name"
+    },
+    "50492": {
+      "icon": "50061",
+      "reason": "search-name"
+    },
+    "50508": {
+      "icon": "50061",
+      "reason": "search-name"
+    },
+    "50509": {
+      "icon": "50061",
+      "reason": "search-name"
+    },
+    "50513": {
+      "icon": "50513",
+      "reason": "exact-vnum"
+    },
+    "50600": {
+      "icon": "book_45",
+      "reason": "search-name"
+    },
+    "50601": {
+      "icon": "50601",
+      "reason": "exact-vnum"
+    },
+    "50602": {
+      "icon": "50602",
+      "reason": "exact-vnum"
+    },
+    "50603": {
+      "icon": "50603",
+      "reason": "exact-vnum"
+    },
+    "50604": {
+      "icon": "50604",
+      "reason": "exact-vnum"
+    },
+    "50605": {
+      "icon": "50605",
+      "reason": "exact-vnum"
+    },
+    "50606": {
+      "icon": "50606",
+      "reason": "exact-vnum"
+    },
+    "50607": {
+      "icon": "50607",
+      "reason": "exact-vnum"
+    },
+    "50608": {
+      "icon": "50608",
+      "reason": "exact-vnum"
+    },
+    "50609": {
+      "icon": "50609",
+      "reason": "exact-vnum"
+    },
+    "50610": {
+      "icon": "50610",
+      "reason": "exact-vnum"
+    },
+    "50611": {
+      "icon": "50611",
+      "reason": "exact-vnum"
+    },
+    "50612": {
+      "icon": "50612",
+      "reason": "exact-vnum"
+    },
+    "50613": {
+      "icon": "50613",
+      "reason": "exact-vnum"
+    },
+    "50621": {
+      "icon": "50621",
+      "reason": "exact-vnum"
+    },
+    "50622": {
+      "icon": "50622",
+      "reason": "exact-vnum"
+    },
+    "50623": {
+      "icon": "50623",
+      "reason": "exact-vnum"
+    },
+    "50624": {
+      "icon": "50624",
+      "reason": "exact-vnum"
+    },
+    "50625": {
+      "icon": "50625",
+      "reason": "exact-vnum"
+    },
+    "50626": {
+      "icon": "50626",
+      "reason": "exact-vnum"
+    },
+    "50627": {
+      "icon": "50627",
+      "reason": "exact-vnum"
+    },
+    "50628": {
+      "icon": "50628",
+      "reason": "exact-vnum"
+    },
+    "50629": {
+      "icon": "50629",
+      "reason": "exact-vnum"
+    },
+    "50630": {
+      "icon": "50630",
+      "reason": "exact-vnum"
+    },
+    "50631": {
+      "icon": "50631",
+      "reason": "exact-vnum"
+    },
+    "50632": {
+      "icon": "50632",
+      "reason": "exact-vnum"
+    },
+    "50633": {
+      "icon": "50633",
+      "reason": "exact-vnum"
+    },
+    "50701": {
+      "icon": "50701",
+      "reason": "exact-vnum"
+    },
+    "50702": {
+      "icon": "50702",
+      "reason": "exact-vnum"
+    },
+    "50703": {
+      "icon": "50703",
+      "reason": "exact-vnum"
+    },
+    "50704": {
+      "icon": "50704",
+      "reason": "exact-vnum"
+    },
+    "50706": {
+      "icon": "50706",
+      "reason": "exact-vnum"
+    },
+    "50721": {
+      "icon": "50701",
+      "reason": "search-name"
+    },
+    "50722": {
+      "icon": "50702",
+      "reason": "search-name"
+    },
+    "50723": {
+      "icon": "50703",
+      "reason": "search-name"
+    },
+    "50724": {
+      "icon": "50704",
+      "reason": "search-name"
+    },
+    "50725": {
+      "icon": "50705",
+      "reason": "search-name"
+    },
+    "50726": {
+      "icon": "50706",
+      "reason": "search-name"
+    },
+    "50727": {
+      "icon": "50707",
+      "reason": "search-name"
+    },
+    "50728": {
+      "icon": "50708",
+      "reason": "search-name"
+    },
+    "50801": {
+      "icon": "50801",
+      "reason": "exact-vnum"
+    },
+    "50802": {
+      "icon": "50802",
+      "reason": "exact-vnum"
+    },
+    "50803": {
+      "icon": "50803",
+      "reason": "exact-vnum"
+    },
+    "50804": {
+      "icon": "50804",
+      "reason": "exact-vnum"
+    },
+    "50813": {
+      "icon": "50813",
+      "reason": "exact-vnum"
+    },
+    "50814": {
+      "icon": "50814",
+      "reason": "exact-vnum"
+    },
+    "50816": {
+      "icon": "50816",
+      "reason": "exact-vnum"
+    },
+    "50817": {
+      "icon": "50817",
+      "reason": "exact-vnum"
+    },
+    "50818": {
+      "icon": "50818",
+      "reason": "exact-vnum"
+    },
+    "50819": {
+      "icon": "50819",
+      "reason": "exact-vnum"
+    },
+    "50821": {
+      "icon": "50821",
+      "reason": "exact-vnum"
+    },
+    "50822": {
+      "icon": "50822",
+      "reason": "exact-vnum"
+    },
+    "50823": {
+      "icon": "50823",
+      "reason": "exact-vnum"
+    },
+    "50824": {
+      "icon": "50824",
+      "reason": "exact-vnum"
+    },
+    "50825": {
+      "icon": "50825",
+      "reason": "exact-vnum"
+    },
+    "50826": {
+      "icon": "50826",
+      "reason": "exact-vnum"
+    },
+    "70005": {
+      "icon": "70005",
+      "reason": "exact-vnum"
+    },
+    "70008": {
+      "icon": "70008",
+      "reason": "exact-vnum"
+    },
+    "70012": {
+      "icon": "70012",
+      "reason": "exact-vnum"
+    },
+    "70014": {
+      "icon": "70014",
+      "reason": "exact-vnum"
+    },
+    "70035": {
+      "icon": "70035",
+      "reason": "exact-vnum"
+    },
+    "70037": {
+      "icon": "70037",
+      "reason": "exact-vnum"
+    },
+    "70038": {
+      "icon": "70038",
+      "reason": "exact-vnum"
+    },
+    "70043": {
+      "icon": "70043",
+      "reason": "exact-vnum"
+    },
+    "70048": {
+      "icon": "70048",
+      "reason": "exact-vnum"
+    },
+    "70049": {
+      "icon": "70049",
+      "reason": "exact-vnum"
+    },
+    "70050": {
+      "icon": "70050",
+      "reason": "exact-vnum"
+    },
+    "70051": {
+      "icon": "70051",
+      "reason": "exact-vnum"
+    },
+    "70052": {
+      "icon": "70050",
+      "reason": "refine-family"
+    },
+    "70057": {
+      "icon": "70050",
+      "reason": "refine-family"
+    },
+    "70102": {
+      "icon": "70102",
+      "reason": "exact-vnum"
+    },
+    "70104": {
+      "icon": "70104",
+      "reason": "exact-vnum"
+    },
+    "70201": {
+      "icon": "70201",
+      "reason": "exact-vnum"
+    },
+    "70202": {
+      "icon": "70202",
+      "reason": "exact-vnum"
+    },
+    "70203": {
+      "icon": "70203",
+      "reason": "exact-vnum"
+    },
+    "70204": {
+      "icon": "70204",
+      "reason": "exact-vnum"
+    },
+    "70205": {
+      "icon": "70205",
+      "reason": "exact-vnum"
+    },
+    "70206": {
+      "icon": "70206",
+      "reason": "exact-vnum"
+    },
+    "70301": {
+      "icon": "70301",
+      "reason": "exact-vnum"
+    },
+    "71001": {
+      "icon": "71001",
+      "reason": "exact-vnum"
+    },
+    "71025": {
+      "icon": "71025",
+      "reason": "exact-vnum"
+    },
+    "71026": {
+      "icon": "71020",
+      "reason": "refine-family"
+    },
+    "71027": {
+      "icon": "71027",
+      "reason": "exact-vnum"
+    },
+    "71028": {
+      "icon": "71028",
+      "reason": "exact-vnum"
+    },
+    "71029": {
+      "icon": "71029",
+      "reason": "exact-vnum"
+    },
+    "71030": {
+      "icon": "71030",
+      "reason": "exact-vnum"
+    },
+    "71031": {
+      "icon": "71030",
+      "reason": "refine-family"
+    },
+    "71035": {
+      "icon": "71035",
+      "reason": "exact-vnum"
+    },
+    "71044": {
+      "icon": "71044",
+      "reason": "exact-vnum"
+    },
+    "71045": {
+      "icon": "71045",
+      "reason": "exact-vnum"
+    },
+    "71083": {
+      "icon": "71083",
+      "reason": "exact-vnum"
+    },
+    "71084": {
+      "icon": "71084",
+      "reason": "exact-vnum"
+    },
+    "71085": {
+      "icon": "71085",
+      "reason": "exact-vnum"
+    },
+    "71094": {
+      "icon": "71094",
+      "reason": "exact-vnum"
+    },
+    "71095": {
+      "icon": "71095",
+      "reason": "exact-vnum"
+    },
+    "71099": {
+      "icon": "71000",
+      "reason": "item-family"
+    },
+    "71107": {
+      "icon": "71107",
+      "reason": "exact-vnum"
+    },
+    "71109": {
+      "icon": "71109",
+      "reason": "exact-vnum"
+    },
+    "71151": {
+      "icon": "71151",
+      "reason": "exact-vnum"
+    },
+    "71152": {
+      "icon": "71152",
+      "reason": "exact-vnum"
+    },
+    "72724": {
+      "icon": "72724",
+      "reason": "exact-vnum"
+    },
+    "72728": {
+      "icon": "72728",
+      "reason": "exact-vnum"
+    },
+    "73005": {
+      "icon": "45003",
+      "reason": "search-name"
+    },
+    "73010": {
+      "icon": "00020",
+      "reason": "search-name"
+    },
+    "77003": {
+      "icon": "38305",
+      "reason": "search-name"
+    },
+    "77004": {
+      "icon": "05060",
+      "reason": "search-name"
+    },
+    "77006": {
+      "icon": "30303",
+      "reason": "search-name"
+    },
+    "77007": {
+      "icon": "30255",
+      "reason": "search-name"
+    },
+    "77012": {
+      "icon": "31031",
+      "reason": "search-name"
+    },
+    "77013": {
+      "icon": "31031",
+      "reason": "search-name"
+    },
+    "77014": {
+      "icon": "31031",
+      "reason": "search-name"
+    },
+    "77015": {
+      "icon": "31031",
+      "reason": "search-name"
+    },
+    "77016": {
+      "icon": "31031",
+      "reason": "search-name"
+    },
+    "77017": {
+      "icon": "30326",
+      "reason": "search-name"
+    },
+    "77018": {
+      "icon": "30326",
+      "reason": "search-name"
+    },
+    "77019": {
+      "icon": "30326",
+      "reason": "search-name"
+    },
+    "77020": {
+      "icon": "30326",
+      "reason": "search-name"
+    },
+    "77021": {
+      "icon": "30326",
+      "reason": "search-name"
+    },
+    "77022": {
+      "icon": "72723",
+      "reason": "search-name"
+    },
+    "77023": {
+      "icon": "72727",
+      "reason": "search-name"
+    },
+    "77026": {
+      "icon": "30129",
+      "reason": "search-name"
+    },
+    "77031": {
+      "icon": "50064",
+      "reason": "search-name"
+    },
+    "77032": {
+      "icon": "06080",
+      "reason": "search-name"
+    },
+    "77033": {
+      "icon": "30514",
+      "reason": "search-name"
+    },
+    "77034": {
+      "icon": "50034",
+      "reason": "search-name"
+    },
+    "77035": {
+      "icon": "28961",
+      "reason": "search-name"
+    },
+    "77067": {
+      "icon": "70035",
+      "reason": "search-name"
+    },
+    "77069": {
+      "icon": "79501",
+      "reason": "search-name"
+    },
+    "77071": {
+      "icon": "31291",
+      "reason": "search-name"
+    },
+    "77072": {
+      "icon": "31090",
+      "reason": "search-name"
+    },
+    "77081": {
+      "icon": "83130",
+      "reason": "search-name"
+    },
+    "77082": {
+      "icon": "25043",
+      "reason": "search-name"
+    },
+    "77083": {
+      "icon": "11250",
+      "reason": "search-name"
+    },
+    "77084": {
+      "icon": "20780",
+      "reason": "search-name"
+    },
+    "80003": {
+      "icon": "80003",
+      "reason": "exact-vnum"
+    },
+    "80005": {
+      "icon": "80005",
+      "reason": "exact-vnum"
+    },
+    "80014": {
+      "icon": "80014",
+      "reason": "exact-vnum"
+    },
+    "80015": {
+      "icon": "80015",
+      "reason": "exact-vnum"
+    },
+    "80016": {
+      "icon": "80016",
+      "reason": "exact-vnum"
+    },
+    "90010": {
+      "icon": "90010",
+      "reason": "exact-vnum"
+    },
+    "90011": {
+      "icon": "90011",
+      "reason": "exact-vnum"
+    },
+    "90012": {
+      "icon": "90012",
+      "reason": "exact-vnum"
+    }
+  }
+}

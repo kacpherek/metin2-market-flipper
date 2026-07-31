@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.wrangler/
+.dev.vars
+.env*
+!.env.example
+*.sqlite*
+*.db
+*.sql
+data/
+seed/
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
