@@ -57,13 +57,24 @@ export default function FlipperDashboard() {
       setLoading(true)
       setError('')
       try {
-        const params = query({ ...filters, limit: 100 })
+        const params = query({
+          q: filters.q,
+          realm: filters.realm,
+          min_profit: filters.minProfit,
+          min_margin: filters.minMargin,
+          min_confidence: filters.minConfidence,
+          min_listings: filters.minListings,
+          min_sales: filters.minSales,
+          max_buy: filters.maxBuy,
+          sort: filters.sort,
+          limit: 100,
+        })
         const [local, cross] = await Promise.all([
           getJson(`/api/flipper?${params}`, controller.signal),
           getJson(`/api/flipper-cross?${params}`, controller.signal),
         ])
-        setDeals(local.rows || [])
-        setCrossDeals(cross.rows || [])
+        setDeals(Array.isArray(local) ? local : local.rows || [])
+        setCrossDeals(Array.isArray(cross) ? cross : cross.rows || [])
       } catch (e) {
         if (e.name !== 'AbortError') setError(e.message)
       } finally {
