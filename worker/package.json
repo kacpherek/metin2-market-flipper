@@ -8,6 +8,6 @@
     "migrate": "wrangler d1 migrations apply m2_shop_db --remote"
   },
   "devDependencies": {
-    "wrangler": "^4.74.0"
+    "wrangler": "^4.156.0"
   }
 }
